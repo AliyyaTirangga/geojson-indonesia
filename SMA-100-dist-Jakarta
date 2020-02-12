@@ -1,0 +1,5276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813975,
+          -6.210667
+        ]
+      },
+      "properties": {
+        "cartodb_id": 54,
+        "field_1": 53,
+        "pl_name": "SMAN 7 Jakarta",
+        "sekolah": "SMAN 7 JAKARTA",
+        "dist": 84.2339563407,
+        "bujur": 106.8147,
+        "lintang": -6.2109,
+        "lng": 106.8139752,
+        "lat": -6.2106675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.701765,
+          -6.146825
+        ]
+      },
+      "properties": {
+        "cartodb_id": 152,
+        "field_1": 151,
+        "pl_name": "Kairos Gracia",
+        "sekolah": "SMA KAIROS GRACIA",
+        "dist": 1618.87067068,
+        "bujur": 106.6888,
+        "lintang": -6.1536,
+        "lng": 106.7017654,
+        "lat": -6.1468248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.613499,
+          -5.747606
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "field_1": 0,
+        "pl_name": "SMA Negeri 69 Jakarta",
+        "sekolah": "SMAN 69 JAKARTA",
+        "dist": 3.24532151837,
+        "bujur": 106.6134864,
+        "lintang": -5.747632,
+        "lng": 106.6134994,
+        "lat": -5.7476057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.850588,
+          -6.197966
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "field_1": 1,
+        "pl_name": "68 Senior High School",
+        "sekolah": "SMAN 68 JAKARTA",
+        "dist": 35.3471134049,
+        "bujur": 106.8509,
+        "lintang": -6.1979,
+        "lng": 106.8505875,
+        "lat": -6.197966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.840728,
+          -6.169871
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "field_1": 2,
+        "pl_name": "Sekolah Menengah Atas Kristen BPK Penabur 3",
+        "sekolah": "SMAS KRISTEN 3 PENABUR JAKARTA",
+        "dist": 125.626916963,
+        "bujur": 106.84,
+        "lintang": -6.169,
+        "lng": 106.8407282,
+        "lat": -6.1698714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.834385,
+          -6.161468
+        ]
+      },
+      "properties": {
+        "cartodb_id": 4,
+        "field_1": 3,
+        "pl_name": "Sekolah Menengah Atas Kristen Karunia",
+        "sekolah": "SMAS KRISTEN KARUNIA JAKARTA",
+        "dist": 403.882273281,
+        "bujur": 106.8362,
+        "lintang": -6.1583,
+        "lng": 106.8343849,
+        "lat": -6.1614683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8057,
+          -6.206181
+        ]
+      },
+      "properties": {
+        "cartodb_id": 5,
+        "field_1": 4,
+        "pl_name": "SMA PGRI 15",
+        "sekolah": "SMAS PGRI 15 JAKARTA",
+        "dist": 1051.00662247,
+        "bujur": 106.8148,
+        "lintang": -6.2089,
+        "lng": 106.8057004,
+        "lat": -6.2061806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.861787,
+          -6.170562
+        ]
+      },
+      "properties": {
+        "cartodb_id": 6,
+        "field_1": 5,
+        "pl_name": "SLTP Perguruan Nasional",
+        "sekolah": "SMAS PERGURUAN NASIONAL JAKARTA",
+        "dist": 120.636917227,
+        "bujur": 106.8623,
+        "lintang": -6.1696,
+        "lng": 106.861787,
+        "lat": -6.1705625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.817781,
+          -6.183939
+        ]
+      },
+      "properties": {
+        "cartodb_id": 7,
+        "field_1": 6,
+        "pl_name": "Sekolah Menengah Atas Hati Suci",
+        "sekolah": "SMAS HATI SUCI",
+        "dist": 64.2988317977,
+        "bujur": 106.8174,
+        "lintang": -6.1835,
+        "lng": 106.8177807,
+        "lat": -6.1839392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.825966,
+          -6.189627
+        ]
+      },
+      "properties": {
+        "cartodb_id": 8,
+        "field_1": 7,
+        "pl_name": "Santa Teresa High School",
+        "sekolah": "SMAS SANTA THERESIA JAKARTA",
+        "dist": 77.8386445214,
+        "bujur": 106.8255,
+        "lintang": -6.1891,
+        "lng": 106.8259661,
+        "lat": -6.1896271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.839453,
+          -6.146675
+        ]
+      },
+      "properties": {
+        "cartodb_id": 9,
+        "field_1": 8,
+        "pl_name": "Sekolah Menengah Atas At-Taqwa",
+        "sekolah": "SMAS AT TAQWA JAKARTA",
+        "dist": 141.945081877,
+        "bujur": 106.8396,
+        "lintang": -6.1454,
+        "lng": 106.839453,
+        "lat": -6.1466751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.844029,
+          -6.20272
+        ]
+      },
+      "properties": {
+        "cartodb_id": 10,
+        "field_1": 9,
+        "pl_name": "SMA Yapermas",
+        "sekolah": "SMAS YAPERMAS JAKARTA",
+        "dist": 19.5092064909,
+        "bujur": 106.8439,
+        "lintang": -6.2026,
+        "lng": 106.8440294,
+        "lat": -6.2027198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.864135,
+          -6.183603
+        ]
+      },
+      "properties": {
+        "cartodb_id": 11,
+        "field_1": 10,
+        "pl_name": "SMA PERGURUAN KSATRYA",
+        "sekolah": "SMAS  PERGURUAN KSATRYA",
+        "dist": 466.354837357,
+        "bujur": 106.8671,
+        "lintang": -6.1866,
+        "lng": 106.8641354,
+        "lat": -6.1836032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.872945,
+          -6.186641
+        ]
+      },
+      "properties": {
+        "cartodb_id": 12,
+        "field_1": 11,
+        "pl_name": "Sekolah Menengah Pertama Kristen Nasional Anglo",
+        "sekolah": "SMAS NASIONAL ANGLO",
+        "dist": 916.132796595,
+        "bujur": 106.8673,
+        "lintang": -6.1927,
+        "lng": 106.8729454,
+        "lat": -6.1866413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.832517,
+          -6.159486
+        ]
+      },
+      "properties": {
+        "cartodb_id": 13,
+        "field_1": 12,
+        "pl_name": "SMAN 20 Jakarta",
+        "sekolah": "SMAN 20 JAKARTA",
+        "dist": 24.3001996966,
+        "bujur": 106.8324,
+        "lintang": -6.1593,
+        "lng": 106.8325169,
+        "lat": -6.159486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.851786,
+          -6.196579
+        ]
+      },
+      "properties": {
+        "cartodb_id": 14,
+        "field_1": 13,
+        "pl_name": "Sekolah Menengah Atas Advent Salemba",
+        "sekolah": "SMAS ADVENT SALEMBA",
+        "dist": 47.5690511108,
+        "bujur": 106.8515,
+        "lintang": -6.1969,
+        "lng": 106.851786,
+        "lat": -6.1965789
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812335,
+          -6.163473
+        ]
+      },
+      "properties": {
+        "cartodb_id": 15,
+        "field_1": 14,
+        "pl_name": "Sekolah Menengah Atas Bunda Mulia",
+        "sekolah": "SMAS BUNDA MULIA JAKARTA",
+        "dist": 18.5665133923,
+        "bujur": 106.8125,
+        "lintang": -6.1635,
+        "lng": 106.8123345,
+        "lat": -6.1634726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.839412,
+          -6.176749
+        ]
+      },
+      "properties": {
+        "cartodb_id": 16,
+        "field_1": 15,
+        "pl_name": "SMA PSKD 3 Jakarta",
+        "sekolah": "SMAS PSKD 3 JAKARTA",
+        "dist": 440.378437401,
+        "bujur": 106.8384,
+        "lintang": -6.1806,
+        "lng": 106.8394125,
+        "lat": -6.1767489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810924,
+          -6.185717
+        ]
+      },
+      "properties": {
+        "cartodb_id": 17,
+        "field_1": 16,
+        "pl_name": "SMK Islam Said Na'um",
+        "sekolah": "SMAS ISLAM SAID NA UM JAKARTA",
+        "dist": 865.969654752,
+        "bujur": 106.8162,
+        "lintang": -6.1915,
+        "lng": 106.8109242,
+        "lat": -6.1857172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846212,
+          -6.187887
+        ]
+      },
+      "properties": {
+        "cartodb_id": 18,
+        "field_1": 17,
+        "pl_name": "St. Fransiskus 1",
+        "sekolah": "SMAS FRANSISKUS 1 JAKARTA",
+        "dist": 1.9642344202,
+        "bujur": 106.8462,
+        "lintang": -6.1879,
+        "lng": 106.8462122,
+        "lat": -6.1878871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.811307,
+          -6.163662
+        ]
+      },
+      "properties": {
+        "cartodb_id": 19,
+        "field_1": 18,
+        "pl_name": "SMK YP IPPI",
+        "sekolah": "SMAS YP IPPI PETOJO JAKARTA",
+        "dist": 15.2492597321,
+        "bujur": 106.8113,
+        "lintang": -6.1638,
+        "lng": 106.8113073,
+        "lat": -6.1636623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805621,
+          -6.196045
+        ]
+      },
+      "properties": {
+        "cartodb_id": 20,
+        "field_1": 19,
+        "pl_name": "Sekolah Menengah Atas Kristen Bethel",
+        "sekolah": "SMAS KRISTEN BETHEL JAKARTA",
+        "dist": 43.9935296055,
+        "bujur": 106.8058,
+        "lintang": -6.1964,
+        "lng": 106.8056208,
+        "lat": -6.1960449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801103,
+          -6.164802
+        ]
+      },
+      "properties": {
+        "cartodb_id": 21,
+        "field_1": 20,
+        "pl_name": "SMA PGRI 14",
+        "sekolah": "SMAS PGRI 14 DKI JAKARTA",
+        "dist": 46.8449491531,
+        "bujur": 106.8014,
+        "lintang": -6.1645,
+        "lng": 106.8011028,
+        "lat": -6.1648016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.848005,
+          -6.197614
+        ]
+      },
+      "properties": {
+        "cartodb_id": 22,
+        "field_1": 21,
+        "pl_name": "PSKD 1 High School",
+        "sekolah": "SMAS PSKD MANDIRI",
+        "dist": 2042.22674458,
+        "bujur": 106.8319,
+        "lintang": -6.1886,
+        "lng": 106.8480051,
+        "lat": -6.197614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84242,
+          -6.152888
+        ]
+      },
+      "properties": {
+        "cartodb_id": 23,
+        "field_1": 22,
+        "pl_name": "Kristen Calvin High School",
+        "sekolah": "SMAS K CALVIN",
+        "dist": 54.0164608222,
+        "bujur": 106.8429,
+        "lintang": -6.1528,
+        "lng": 106.8424199,
+        "lat": -6.1528877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.837681,
+          -6.146472
+        ]
+      },
+      "properties": {
+        "cartodb_id": 24,
+        "field_1": 23,
+        "pl_name": "Sekolah Menengah Atas Triwibawa",
+        "sekolah": "SMAS TRIWIBAWA JAKARTA",
+        "dist": 15.4231970228,
+        "bujur": 106.8378,
+        "lintang": -6.1464,
+        "lng": 106.8376806,
+        "lat": -6.1464719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.851691,
+          -6.185595
+        ]
+      },
+      "properties": {
+        "cartodb_id": 25,
+        "field_1": 24,
+        "pl_name": "Sekolah Menengah Atas Islam Al- Jihad",
+        "sekolah": "SMAS ISLAM AL - JIHAD JAKARTA",
+        "dist": 11.6040894934,
+        "bujur": 106.8517,
+        "lintang": -6.1857,
+        "lng": 106.8516905,
+        "lat": -6.1855955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.837534,
+          -6.16629
+        ]
+      },
+      "properties": {
+        "cartodb_id": 26,
+        "field_1": 25,
+        "pl_name": "State High School 1 Jakarta",
+        "sekolah": "SMAN 1 JAKARTA",
+        "dist": 103.945303487,
+        "bujur": 106.8373,
+        "lintang": -6.1672,
+        "lng": 106.8375336,
+        "lat": -6.1662896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.848005,
+          -6.197614
+        ]
+      },
+      "properties": {
+        "cartodb_id": 27,
+        "field_1": 26,
+        "pl_name": "PSKD 1 High School",
+        "sekolah": "SMAS PSKD 1 JAKARTA",
+        "dist": 2105.12362105,
+        "bujur": 106.8401,
+        "lintang": -6.1803,
+        "lng": 106.8480051,
+        "lat": -6.197614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846262,
+          -6.159283
+        ]
+      },
+      "properties": {
+        "cartodb_id": 28,
+        "field_1": 27,
+        "pl_name": "Kanaan Christian School",
+        "sekolah": "SMAS KRISTEN KANAAN JAKARTA",
+        "dist": 46.2831700964,
+        "bujur": 106.8463,
+        "lintang": -6.1597,
+        "lng": 106.8462621,
+        "lat": -6.1592832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84923,
+          -6.20491
+        ]
+      },
+      "properties": {
+        "cartodb_id": 29,
+        "field_1": 28,
+        "pl_name": "SMA Dwisaka",
+        "sekolah": "SMAS DWISAKA JAKARTA",
+        "dist": 12.6095434274,
+        "bujur": 106.8492,
+        "lintang": -6.2048,
+        "lng": 106.84923,
+        "lat": -6.20491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.816335,
+          -6.164761
+        ]
+      },
+      "properties": {
+        "cartodb_id": 30,
+        "field_1": 29,
+        "pl_name": "Sekolah Dasar Tarsisius 1",
+        "sekolah": "SMAS TARSISIUS 1 JAKARTA",
+        "dist": 128.86853336,
+        "bujur": 106.8152,
+        "lintang": -6.1645,
+        "lng": 106.8163348,
+        "lat": -6.1647608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.875198,
+          -6.187172
+        ]
+      },
+      "properties": {
+        "cartodb_id": 31,
+        "field_1": 30,
+        "pl_name": "SMA NEGERI 30 JAKARTA",
+        "sekolah": "SMAN 30 JAKARTA",
+        "dist": 44.6863709445,
+        "bujur": 106.8749,
+        "lintang": -6.1869,
+        "lng": 106.8751985,
+        "lat": -6.1871721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835791,
+          -6.164553
+        ]
+      },
+      "properties": {
+        "cartodb_id": 32,
+        "field_1": 31,
+        "pl_name": "Sekolah Menengah Atas Mahatma Gandhi",
+        "sekolah": "SMA MAHATMA GANDHI SCHOOL",
+        "dist": 1279.43390367,
+        "bujur": 106.8403,
+        "lintang": -6.1539,
+        "lng": 106.8357907,
+        "lat": -6.1645529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801575,
+          -6.164372
+        ]
+      },
+      "properties": {
+        "cartodb_id": 33,
+        "field_1": 32,
+        "pl_name": "SMA St Paulus",
+        "sekolah": "SMAS SANTO PAULUS JAKARTA",
+        "dist": 11.439797567,
+        "bujur": 106.8015,
+        "lintang": -6.1643,
+        "lng": 106.8015746,
+        "lat": -6.1643716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.873041,
+          -6.161349
+        ]
+      },
+      "properties": {
+        "cartodb_id": 34,
+        "field_1": 33,
+        "pl_name": "Sekolah Menengah Atas Paskalis",
+        "sekolah": "SMAS PASKALIS",
+        "dist": 46.8567211616,
+        "bujur": 106.8727,
+        "lintang": -6.1616,
+        "lng": 106.873041,
+        "lat": -6.1613489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813432,
+          -6.167679
+        ]
+      },
+      "properties": {
+        "cartodb_id": 35,
+        "field_1": 34,
+        "pl_name": "SMA Negeri 25 Jakarta",
+        "sekolah": "SMAN 25 JAKARTA",
+        "dist": 60.2908588146,
+        "bujur": 106.8139,
+        "lintang": -6.1674,
+        "lng": 106.813432,
+        "lat": -6.167679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826668,
+          -6.146438
+        ]
+      },
+      "properties": {
+        "cartodb_id": 36,
+        "field_1": 35,
+        "pl_name": "Sekolah Menengah Atas Negeri 10 Jakarta",
+        "sekolah": "SMAN 10 JAKARTA",
+        "dist": 34.3942580628,
+        "bujur": 106.8265,
+        "lintang": -6.1467,
+        "lng": 106.8266676,
+        "lat": -6.1464381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831232,
+          -6.166538
+        ]
+      },
+      "properties": {
+        "cartodb_id": 37,
+        "field_1": 36,
+        "pl_name": "SMA Kristen 2 Penabur",
+        "sekolah": "SMAS KRISTEN 2 BPK PENABUR",
+        "dist": 19.4318045274,
+        "bujur": 106.8313,
+        "lintang": -6.1667,
+        "lng": 106.831232,
+        "lat": -6.166538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808074,
+          -6.20799
+        ]
+      },
+      "properties": {
+        "cartodb_id": 38,
+        "field_1": 37,
+        "pl_name": "SMA Muhammadiyah 14",
+        "sekolah": "SMAS MUHAMMADIYAH 14 JAKARTA",
+        "dist": 14.0298861692,
+        "bujur": 106.8082,
+        "lintang": -6.208,
+        "lng": 106.8080736,
+        "lat": -6.2079903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.865002,
+          -6.156587
+        ]
+      },
+      "properties": {
+        "cartodb_id": 39,
+        "field_1": 38,
+        "pl_name": "SMAN 5 Jakarta",
+        "sekolah": "SMAN 5 JAKARTA",
+        "dist": 375.363286155,
+        "bujur": 106.8669,
+        "lintang": -6.1594,
+        "lng": 106.8650024,
+        "lat": -6.1565868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826566,
+          -6.190628
+        ]
+      },
+      "properties": {
+        "cartodb_id": 40,
+        "field_1": 39,
+        "pl_name": "Sekolah Menengah Pertama Santo Bellarminus",
+        "sekolah": "SMAS SANTO BELLARMINUS JAKARTA",
+        "dist": 270.401150829,
+        "bujur": 106.8252,
+        "lintang": -6.1886,
+        "lng": 106.8265655,
+        "lat": -6.1906276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813988,
+          -6.209051
+        ]
+      },
+      "properties": {
+        "cartodb_id": 41,
+        "field_1": 40,
+        "pl_name": "SMA Negeri 35 Jakarta",
+        "sekolah": "SMAN 35 JAKARTA",
+        "dist": 36.1522095352,
+        "bujur": 106.8142,
+        "lintang": -6.2093,
+        "lng": 106.8139881,
+        "lat": -6.2090512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.850723,
+          -6.150266
+        ]
+      },
+      "properties": {
+        "cartodb_id": 42,
+        "field_1": 41,
+        "pl_name": "SMA Universal",
+        "sekolah": "SMAS UNIVERSAL",
+        "dist": 715.437722675,
+        "bujur": 106.8539,
+        "lintang": -6.1559,
+        "lng": 106.850723,
+        "lat": -6.1502659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.843515,
+          -6.179415
+        ]
+      },
+      "properties": {
+        "cartodb_id": 43,
+        "field_1": 42,
+        "pl_name": "Sekolah Dasar Advent 1 Jakarta",
+        "sekolah": "SMAS ADVENT 1 JAKARTA",
+        "dist": 39.5245456099,
+        "bujur": 106.8438,
+        "lintang": -6.1792,
+        "lng": 106.8435148,
+        "lat": -6.1794151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.849333,
+          -6.168201
+        ]
+      },
+      "properties": {
+        "cartodb_id": 44,
+        "field_1": 43,
+        "pl_name": "Sekolah Menengah Atas Kartini",
+        "sekolah": "SMAS KARTINI 1 JAKARTA",
+        "dist": 722.076410477,
+        "bujur": 106.8554,
+        "lintang": -6.1658,
+        "lng": 106.8493331,
+        "lat": -6.1682011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83237,
+          -6.201013
+        ]
+      },
+      "properties": {
+        "cartodb_id": 45,
+        "field_1": 44,
+        "pl_name": "SMA Sunda Kelapa",
+        "sekolah": "SMAS SUNDA KELAPA JAKARTA",
+        "dist": 27.2536459379,
+        "bujur": 106.8326,
+        "lintang": -6.2011,
+        "lng": 106.8323696,
+        "lat": -6.201013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831232,
+          -6.166538
+        ]
+      },
+      "properties": {
+        "cartodb_id": 46,
+        "field_1": 45,
+        "pl_name": "SMA Kristen 2 Penabur",
+        "sekolah": "SMAS KRISTEN PEMBANGUNAN 2",
+        "dist": 1599.34063466,
+        "bujur": 106.8173,
+        "lintang": -6.1627,
+        "lng": 106.831232,
+        "lat": -6.166538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835955,
+          -6.178687
+        ]
+      },
+      "properties": {
+        "cartodb_id": 47,
+        "field_1": 46,
+        "pl_name": "SMAN 4 Jakarta",
+        "sekolah": "SMAN 4 JAKARTA",
+        "dist": 41.211550759,
+        "bujur": 106.8356,
+        "lintang": -6.1788,
+        "lng": 106.8359547,
+        "lat": -6.1786866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.833544,
+          -6.167766
+        ]
+      },
+      "properties": {
+        "cartodb_id": 48,
+        "field_1": 47,
+        "pl_name": "Sekolah Menengah Atas Santa Ursula",
+        "sekolah": "SMAS SANTA URSULA",
+        "dist": 114.959469236,
+        "bujur": 106.834,
+        "lintang": -6.1687,
+        "lng": 106.833544,
+        "lat": -6.167766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796444,
+          -6.210845
+        ]
+      },
+      "properties": {
+        "cartodb_id": 49,
+        "field_1": 48,
+        "pl_name": "SMA Negeri 24 Jakarta",
+        "sekolah": "SMAN 24 JAKARTA",
+        "dist": 7.77758343532,
+        "bujur": 106.7964,
+        "lintang": -6.2109,
+        "lng": 106.7964438,
+        "lat": -6.210845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.842754,
+          -6.161934
+        ]
+      },
+      "properties": {
+        "cartodb_id": 50,
+        "field_1": 49,
+        "pl_name": "SMA Muhammadiyah",
+        "sekolah": "SMAS MUHAMMADIYAH 2 JAKARTA",
+        "dist": 71.9919497468,
+        "bujur": 106.8423,
+        "lintang": -6.1624,
+        "lng": 106.8427544,
+        "lat": -6.1619342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.859891,
+          -6.192116
+        ]
+      },
+      "properties": {
+        "cartodb_id": 51,
+        "field_1": 50,
+        "pl_name": "SMA Taman Madya 5 Jakarta",
+        "sekolah": "SMAS TAMAN MADYA 5 JAKARTA",
+        "dist": 233.39700899,
+        "bujur": 106.862,
+        "lintang": -6.1921,
+        "lng": 106.8598912,
+        "lat": -6.1921163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.857661,
+          -6.157397
+        ]
+      },
+      "properties": {
+        "cartodb_id": 52,
+        "field_1": 51,
+        "pl_name": "SMA Taman Siswa",
+        "sekolah": "SMAS TAMAN MADYA I JAKARTA",
+        "dist": 63.0121228851,
+        "bujur": 106.8571,
+        "lintang": -6.1573,
+        "lng": 106.857661,
+        "lat": -6.157397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846374,
+          -6.180704
+        ]
+      },
+      "properties": {
+        "cartodb_id": 53,
+        "field_1": 52,
+        "pl_name": "SMA Muhammadiyah 1 Jakarta",
+        "sekolah": "SMAS MUHAMMADIYAH 1 JAKARTA",
+        "dist": 807.425092118,
+        "bujur": 106.8461,
+        "lintang": -6.188,
+        "lng": 106.8463741,
+        "lat": -6.1807039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.828368,
+          -6.147587
+        ]
+      },
+      "properties": {
+        "cartodb_id": 55,
+        "field_1": 54,
+        "pl_name": "SMA Budi Mulia Mangga Besar",
+        "sekolah": "SMAS BUDI MULIA JAKARTA",
+        "dist": 70.3181398664,
+        "bujur": 106.8282,
+        "lintang": -6.1482,
+        "lng": 106.8283681,
+        "lat": -6.1475868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.866759,
+          -6.174683
+        ]
+      },
+      "properties": {
+        "cartodb_id": 56,
+        "field_1": 55,
+        "pl_name": "Smp 77 Jakarta",
+        "sekolah": "SMAN 77 JAKARTA",
+        "dist": 92.1307557043,
+        "bujur": 106.8662,
+        "lintang": -6.1753,
+        "lng": 106.8667589,
+        "lat": -6.1746826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814197,
+          -6.161003
+        ]
+      },
+      "properties": {
+        "cartodb_id": 57,
+        "field_1": 56,
+        "pl_name": "Sekolah Menengah Atas Kristen Ketapang 1",
+        "sekolah": "SMAS KRISTEN KETAPANG 1 JAKARTA",
+        "dist": 45.8526609764,
+        "bujur": 106.8141,
+        "lintang": -6.1606,
+        "lng": 106.8141966,
+        "lat": -6.1610032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.864115,
+          -6.1836
+        ]
+      },
+      "properties": {
+        "cartodb_id": 58,
+        "field_1": 57,
+        "pl_name": "SMA Negeri 27 Jakarta",
+        "sekolah": "SMAN 27 JAKARTA",
+        "dist": 367.928479066,
+        "bujur": 106.8612,
+        "lintang": -6.182,
+        "lng": 106.8641146,
+        "lat": -6.1836002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835102,
+          -6.185662
+        ]
+      },
+      "properties": {
+        "cartodb_id": 59,
+        "field_1": 58,
+        "pl_name": "Canisius College",
+        "sekolah": "SMAS KANISIUS JAKARTA",
+        "dist": 28.2947415887,
+        "bujur": 106.8353,
+        "lintang": -6.1855,
+        "lng": 106.8351022,
+        "lat": -6.1856621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84639,
+          -6.16987
+        ]
+      },
+      "properties": {
+        "cartodb_id": 60,
+        "field_1": 59,
+        "pl_name": "SMA Muhammadiyah 16",
+        "sekolah": "SMAS MUHAMMADIYAH 16 JAKARTA",
+        "dist": 12.6186180445,
+        "bujur": 106.8465,
+        "lintang": -6.1699,
+        "lng": 106.84639,
+        "lat": -6.16987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9025,
+          -6.166266
+        ]
+      },
+      "properties": {
+        "cartodb_id": 61,
+        "field_1": 60,
+        "pl_name": "SMA Don Bosco 1",
+        "sekolah": "SMAS DON BOSCO 1 JAKARTA",
+        "dist": 1206.74692247,
+        "bujur": 106.9134,
+        "lintang": -6.166,
+        "lng": 106.9025002,
+        "lat": -6.1662665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.886085,
+          -6.122956
+        ]
+      },
+      "properties": {
+        "cartodb_id": 62,
+        "field_1": 61,
+        "pl_name": "Sekolah Menengah Atas Dharma Putra Jakarta",
+        "sekolah": "SMAS DHARMA PUTRA JAKARTA",
+        "dist": 140.12496318,
+        "bujur": 106.8873,
+        "lintang": -6.1226,
+        "lng": 106.8860852,
+        "lat": -6.1229565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.858571,
+          -6.149768
+        ]
+      },
+      "properties": {
+        "cartodb_id": 63,
+        "field_1": 62,
+        "pl_name": "Sekolah Menengah Atas Jubilee",
+        "sekolah": "SMAS JUBILEE",
+        "dist": 1637.8249411,
+        "bujur": 106.8722,
+        "lintang": -6.144,
+        "lng": 106.858571,
+        "lat": -6.149768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812335,
+          -6.163473
+        ]
+      },
+      "properties": {
+        "cartodb_id": 64,
+        "field_1": 63,
+        "pl_name": "Sekolah Menengah Atas Bunda Mulia",
+        "sekolah": "SMA BUNDA MULIA  SCHOOL",
+        "dist": 3837.45877773,
+        "bujur": 106.8194,
+        "lintang": -6.1295,
+        "lng": 106.8123345,
+        "lat": -6.1634726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.935518,
+          -6.109795
+        ]
+      },
+      "properties": {
+        "cartodb_id": 65,
+        "field_1": 64,
+        "pl_name": "Sekolah Menengah Atas Negeri 114 Jakarta",
+        "sekolah": "SMAN 114 JAKARTA",
+        "dist": 75.7671206936,
+        "bujur": 106.9349,
+        "lintang": -6.1095,
+        "lng": 106.9355176,
+        "lat": -6.1097954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.894023,
+          -6.167787
+        ]
+      },
+      "properties": {
+        "cartodb_id": 66,
+        "field_1": 65,
+        "pl_name": "SMA Mahatma Gading",
+        "sekolah": "SMA MAHATMA GADING",
+        "dist": 718.043789034,
+        "bujur": 106.8943,
+        "lintang": -6.1613,
+        "lng": 106.8940231,
+        "lat": -6.1677871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.858148,
+          -6.130908
+        ]
+      },
+      "properties": {
+        "cartodb_id": 67,
+        "field_1": 66,
+        "pl_name": "Sekolah Menengah Atas Santo Lukas",
+        "sekolah": "SMAS SANTO LUKAS 1 JAKARTA",
+        "dist": 37.969441185,
+        "bujur": 106.8583,
+        "lintang": -6.1306,
+        "lng": 106.8581476,
+        "lat": -6.1309076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.924342,
+          -6.111285
+        ]
+      },
+      "properties": {
+        "cartodb_id": 68,
+        "field_1": 67,
+        "pl_name": "Sekolah Menengah Atas Negeri 73",
+        "sekolah": "SMAN 73 JAKARTA",
+        "dist": 24.6732975563,
+        "bujur": 106.9244,
+        "lintang": -6.1115,
+        "lng": 106.9243419,
+        "lat": -6.1112846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.871094,
+          -6.139791
+        ]
+      },
+      "properties": {
+        "cartodb_id": 69,
+        "field_1": 68,
+        "pl_name": "80 Senior High School Jakarta",
+        "sekolah": "SMAN 80 JAKARTA",
+        "dist": 281.060296852,
+        "bujur": 106.8715,
+        "lintang": -6.1423,
+        "lng": 106.8710944,
+        "lat": -6.1397911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778137,
+          -6.12973
+        ]
+      },
+      "properties": {
+        "cartodb_id": 70,
+        "field_1": 69,
+        "pl_name": "YAYASAN STELLA MARIS",
+        "sekolah": "SMAS STELLA MARIS JAKARTA",
+        "dist": 156.028526153,
+        "bujur": 106.7778,
+        "lintang": -6.1311,
+        "lng": 106.778137,
+        "lat": -6.12973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.956985,
+          -6.151131
+        ]
+      },
+      "properties": {
+        "cartodb_id": 71,
+        "field_1": 70,
+        "pl_name": "SMAN 115 Jakarta",
+        "sekolah": "SMAN 115 JAKARTA",
+        "dist": 9.98304936391,
+        "bujur": 106.9569,
+        "lintang": -6.1511,
+        "lng": 106.9569846,
+        "lat": -6.1511313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91059,
+          -6.115624
+        ]
+      },
+      "properties": {
+        "cartodb_id": 72,
+        "field_1": 71,
+        "pl_name": "Sekolah Menengah Atas Al-Khairiyah Pagi",
+        "sekolah": "SMAS AL KHAIRIYAH JAKARTA",
+        "dist": 400.30547301,
+        "bujur": 106.9142,
+        "lintang": -6.1154,
+        "lng": 106.9105905,
+        "lat": -6.1156243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.861707,
+          -6.133756
+        ]
+      },
+      "properties": {
+        "cartodb_id": 73,
+        "field_1": 72,
+        "pl_name": "Sekolah Menengah Pertama Kristen IPEKA Sunter II",
+        "sekolah": "SMAS KRISTEN IPEKA SUNTER",
+        "dist": 2483.86716859,
+        "bujur": 106.871,
+        "lintang": -6.1542,
+        "lng": 106.861707,
+        "lat": -6.1337556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.894291,
+          -6.119192
+        ]
+      },
+      "properties": {
+        "cartodb_id": 74,
+        "field_1": 73,
+        "pl_name": "SMA Negeri 13 Jakarta",
+        "sekolah": "SMAN 13 JAKARTA",
+        "dist": 35.6578012997,
+        "bujur": 106.8946,
+        "lintang": -6.1191,
+        "lng": 106.8942911,
+        "lat": -6.1191915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90645,
+          -6.14634
+        ]
+      },
+      "properties": {
+        "cartodb_id": 75,
+        "field_1": 74,
+        "pl_name": "SMA Al Muhajirin",
+        "sekolah": "SMAS AL MUHAJIRIN JAKARTA",
+        "dist": 7.084757306,
+        "bujur": 106.9065,
+        "lintang": -6.1463,
+        "lng": 106.90645,
+        "lat": -6.14634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.89186,
+          -6.11105
+        ]
+      },
+      "properties": {
+        "cartodb_id": 76,
+        "field_1": 75,
+        "pl_name": "Sltp Pusaka Nusantara",
+        "sekolah": "SMAS PUSAKA NUSANTARA",
+        "dist": 7.08358946613,
+        "bujur": 106.8919,
+        "lintang": -6.111,
+        "lng": 106.89186,
+        "lat": -6.11105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.923857,
+          -6.122152
+        ]
+      },
+      "properties": {
+        "cartodb_id": 77,
+        "field_1": 76,
+        "pl_name": "Kantin SMAN 52",
+        "sekolah": "SMAN 52 JAKARTA",
+        "dist": 17.0086112822,
+        "bujur": 106.9239,
+        "lintang": -6.1223,
+        "lng": 106.9238568,
+        "lat": -6.1221524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.908006,
+          -6.147612
+        ]
+      },
+      "properties": {
+        "cartodb_id": 78,
+        "field_1": 77,
+        "pl_name": "Sekolah Menengah Atas Kristen 5 Penabur Kelapa Gading",
+        "sekolah": "SMAK PENABUR KELAPA GADING",
+        "dist": 9.75582183523,
+        "bujur": 106.908,
+        "lintang": -6.1477,
+        "lng": 106.9080062,
+        "lat": -6.147612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.864824,
+          -6.136714
+        ]
+      },
+      "properties": {
+        "cartodb_id": 79,
+        "field_1": 78,
+        "pl_name": "SMP-SMAK Tunas Bangsa Sunter",
+        "sekolah": "SMAS KRISTEN TUNAS BANGSA",
+        "dist": 1148.63652581,
+        "bujur": 106.8749,
+        "lintang": -6.1392,
+        "lng": 106.8648241,
+        "lat": -6.1367142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79014,
+          -6.14104
+        ]
+      },
+      "properties": {
+        "cartodb_id": 80,
+        "field_1": 79,
+        "pl_name": "SMP Dharma Suci",
+        "sekolah": "SMAS DHARMA SUCI JAKARTA",
+        "dist": 1979.55587774,
+        "bujur": 106.7752,
+        "lintang": -6.1312,
+        "lng": 106.7901399,
+        "lat": -6.14104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.906111,
+          -6.146252
+        ]
+      },
+      "properties": {
+        "cartodb_id": 81,
+        "field_1": 80,
+        "pl_name": "Jakarta Taipei School",
+        "sekolah": "Jakarta Taipei School",
+        "dist": 2753.24497538,
+        "bujur": 106.9089096,
+        "lintang": -6.170991,
+        "lng": 106.9061113,
+        "lat": -6.1462524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.789151,
+          -6.135677
+        ]
+      },
+      "properties": {
+        "cartodb_id": 82,
+        "field_1": 81,
+        "pl_name": "SMA Budi Agung",
+        "sekolah": "SMAS BUDI AGUNG",
+        "dist": 814.827999757,
+        "bujur": 106.7965,
+        "lintang": -6.1361,
+        "lng": 106.7891505,
+        "lat": -6.1356774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.924885,
+          -6.134576
+        ]
+      },
+      "properties": {
+        "cartodb_id": 83,
+        "field_1": 82,
+        "pl_name": "Sekolah Menengah Atas Yaspi",
+        "sekolah": "SMAS YASPI JAKARTA",
+        "dist": 165.749917861,
+        "bujur": 106.9261,
+        "lintang": -6.1337,
+        "lng": 106.9248847,
+        "lat": -6.1345757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82273,
+          -6.125613
+        ]
+      },
+      "properties": {
+        "cartodb_id": 84,
+        "field_1": 83,
+        "pl_name": "Gandhi Middle School Ancol Jakarta",
+        "sekolah": "SMAS GANDHI ANCOL",
+        "dist": 1567.27960908,
+        "bujur": 106.8368,
+        "lintang": -6.1272,
+        "lng": 106.8227296,
+        "lat": -6.1256131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.764,
+          -6.132546
+        ]
+      },
+      "properties": {
+        "cartodb_id": 85,
+        "field_1": 84,
+        "pl_name": "Sekolah Menengah Atas Bunga Hati Bangsa",
+        "sekolah": "SMAS BUNGA HATI BANGSA",
+        "dist": 298.886274744,
+        "bujur": 106.7613,
+        "lintang": -6.1325,
+        "lng": 106.7639999,
+        "lat": -6.132546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.883852,
+          -6.116301
+        ]
+      },
+      "properties": {
+        "cartodb_id": 86,
+        "field_1": 85,
+        "pl_name": "Sekolah Menengah Atas Gideon",
+        "sekolah": "SMAS GIDEON JAKARTA",
+        "dist": 1249.84578089,
+        "bujur": 106.8841,
+        "lintang": -6.1276,
+        "lng": 106.8838517,
+        "lat": -6.1163008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796312,
+          -6.133768
+        ]
+      },
+      "properties": {
+        "cartodb_id": 87,
+        "field_1": 86,
+        "pl_name": "Sekolah Menengah Atas Negeri 111 Jakarta",
+        "sekolah": "SMAN 111 JAKARTA",
+        "dist": 641.278450893,
+        "bujur": 106.8017,
+        "lintang": -6.1359,
+        "lng": 106.7963122,
+        "lat": -6.1337678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.861707,
+          -6.133756
+        ]
+      },
+      "properties": {
+        "cartodb_id": 88,
+        "field_1": 87,
+        "pl_name": "Sekolah Menengah Pertama Kristen IPEKA Sunter II",
+        "sekolah": "SMAS KRISTEN IPEKA PLUIT",
+        "dist": 9775.58634304,
+        "bujur": 106.7743,
+        "lintang": -6.1211,
+        "lng": 106.861707,
+        "lat": -6.1337556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.913136,
+          -6.146563
+        ]
+      },
+      "properties": {
+        "cartodb_id": 89,
+        "field_1": 88,
+        "pl_name": "Gereja Bethel Indonesia Mawar Saron",
+        "sekolah": "SMAS KRISTEN MAWAR SARON",
+        "dist": 2027.37675477,
+        "bujur": 106.9199,
+        "lintang": -6.1636,
+        "lng": 106.9131357,
+        "lat": -6.146563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.903806,
+          -6.160949
+        ]
+      },
+      "properties": {
+        "cartodb_id": 90,
+        "field_1": 89,
+        "pl_name": "SMP/SMU Tunas Karya",
+        "sekolah": "SMAS TUNAS KARYA JAKARTA",
+        "dist": 23.4219987034,
+        "bujur": 106.9036,
+        "lintang": -6.1609,
+        "lng": 106.9038059,
+        "lat": -6.1609489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.890547,
+          -6.125351
+        ]
+      },
+      "properties": {
+        "cartodb_id": 91,
+        "field_1": 90,
+        "pl_name": "Sekolah Menengah Atas Yappenda",
+        "sekolah": "SMAS YAPPENDA",
+        "dist": 17.4665381447,
+        "bujur": 106.8905,
+        "lintang": -6.1252,
+        "lng": 106.8905466,
+        "lat": -6.1253509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.881934,
+          -6.130146
+        ]
+      },
+      "properties": {
+        "cartodb_id": 92,
+        "field_1": 91,
+        "pl_name": "SMA Aljihad",
+        "sekolah": "SMAS AL JIHAD JAKARTA",
+        "dist": 6.30149843821,
+        "bujur": 106.8819,
+        "lintang": -6.1301,
+        "lng": 106.8819336,
+        "lat": -6.130146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.791205,
+          -6.114337
+        ]
+      },
+      "properties": {
+        "cartodb_id": 93,
+        "field_1": 92,
+        "pl_name": "Tarakanita",
+        "sekolah": "SMAS TARAKANITA 2",
+        "dist": 32.8912162495,
+        "bujur": 106.7915,
+        "lintang": -6.1143,
+        "lng": 106.7912052,
+        "lat": -6.1143373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.780277,
+          -6.137773
+        ]
+      },
+      "properties": {
+        "cartodb_id": 94,
+        "field_1": 93,
+        "pl_name": "Sekolah Menengah Atas Westin",
+        "sekolah": "SMA WESTIN",
+        "dist": 256.970390606,
+        "bujur": 106.781862,
+        "lintang": -6.136075,
+        "lng": 106.7802769,
+        "lat": -6.1377728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.902737,
+          -6.170787
+        ]
+      },
+      "properties": {
+        "cartodb_id": 95,
+        "field_1": 94,
+        "pl_name": "Sekolah Tunas Gading",
+        "sekolah": "SMAS TUNAS GADING",
+        "dist": 1081.14623378,
+        "bujur": 106.9121,
+        "lintang": -6.168,
+        "lng": 106.902737,
+        "lat": -6.1707869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.867699,
+          -6.155585
+        ]
+      },
+      "properties": {
+        "cartodb_id": 96,
+        "field_1": 95,
+        "pl_name": "Sekolah Menengah Atas Gita Kirtti 2 Jakarta",
+        "sekolah": "SMAS GITA KIRTI 2",
+        "dist": 40.6901814455,
+        "bujur": 106.8674,
+        "lintang": -6.1558,
+        "lng": 106.8676987,
+        "lat": -6.1555855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.867591,
+          -6.145355
+        ]
+      },
+      "properties": {
+        "cartodb_id": 97,
+        "field_1": 96,
+        "pl_name": "SMA Dharma Budhi Bhakti",
+        "sekolah": "SMAS DHARMA BUDHI BHAKTI JAKARTA",
+        "dist": 130.223229984,
+        "bujur": 106.8684,
+        "lintang": -6.1445,
+        "lng": 106.867591,
+        "lat": -6.145355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.916692,
+          -6.11503
+        ]
+      },
+      "properties": {
+        "cartodb_id": 98,
+        "field_1": 97,
+        "pl_name": "SMA Fons Vitae 2",
+        "sekolah": "SMAS FONS VITAE 2 JAKARTA",
+        "dist": 380.730689646,
+        "bujur": 106.9164,
+        "lintang": -6.1116,
+        "lng": 106.9166919,
+        "lat": -6.1150304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799883,
+          -6.123395
+        ]
+      },
+      "properties": {
+        "cartodb_id": 99,
+        "field_1": 98,
+        "pl_name": "BTB School",
+        "sekolah": "SMA BINA TUNAS BANGSA",
+        "dist": 2130.08856518,
+        "bujur": 106.7949,
+        "lintang": -6.142,
+        "lng": 106.7998828,
+        "lat": -6.1233952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.774412,
+          -6.121225
+        ]
+      },
+      "properties": {
+        "cartodb_id": 100,
+        "field_1": 99,
+        "pl_name": "SMA Permai Jakarta",
+        "sekolah": "SMAS PERMAI JAKARTA",
+        "dist": 27.246172594,
+        "bujur": 106.7742,
+        "lintang": -6.1211,
+        "lng": 106.774412,
+        "lat": -6.1212252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.756302,
+          -6.195856
+        ]
+      },
+      "properties": {
+        "cartodb_id": 101,
+        "field_1": 100,
+        "pl_name": "Raffles International Christian School",
+        "sekolah": "SMA Raffles Christian School",
+        "dist": 16418.0678364,
+        "bujur": 106.9025,
+        "lintang": -6.1707,
+        "lng": 106.7563017,
+        "lat": -6.1958556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.756302,
+          -6.195856
+        ]
+      },
+      "properties": {
+        "cartodb_id": 102,
+        "field_1": 101,
+        "pl_name": "Raffles International Christian School",
+        "sekolah": "SMA Raffles Christian School",
+        "dist": 1916.78634219,
+        "bujur": 106.738985,
+        "lintang": -6.196155,
+        "lng": 106.7563017,
+        "lat": -6.1958556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.894481,
+          -6.161446
+        ]
+      },
+      "properties": {
+        "cartodb_id": 103,
+        "field_1": 102,
+        "pl_name": "Mahatma Gading Intercultural School",
+        "sekolah": "SMA MAHATMA GADING INTERCULTURAL SCHOOL",
+        "dist": 2175.24903234,
+        "bujur": 106.907674,
+        "lintang": -6.146867,
+        "lng": 106.8944805,
+        "lat": -6.1614458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.905194,
+          -6.133714
+        ]
+      },
+      "properties": {
+        "cartodb_id": 104,
+        "field_1": 103,
+        "pl_name": "SMA Negeri 110 Jakarta",
+        "sekolah": "SMAN 110 JAKARTA",
+        "dist": 21.5644381484,
+        "bujur": 106.905,
+        "lintang": -6.1337,
+        "lng": 106.9051943,
+        "lat": -6.1337143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.776475,
+          -6.122807
+        ]
+      },
+      "properties": {
+        "cartodb_id": 105,
+        "field_1": 104,
+        "pl_name": "Sekolah Menengah Atas Cahaya Kudus",
+        "sekolah": "SMAS CAHAYA KUDUS JAKARTA",
+        "dist": 832.984958913,
+        "bujur": 106.7815,
+        "lintang": -6.1172,
+        "lng": 106.7764751,
+        "lat": -6.1228072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.927696,
+          -6.129836
+        ]
+      },
+      "properties": {
+        "cartodb_id": 106,
+        "field_1": 105,
+        "pl_name": "SMA Negeri 92 Jakarta",
+        "sekolah": "SMAN 92 JAKARTA",
+        "dist": 93.3226313598,
+        "bujur": 106.9284,
+        "lintang": -6.1303,
+        "lng": 106.9276957,
+        "lat": -6.1298361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.905644,
+          -6.174918
+        ]
+      },
+      "properties": {
+        "cartodb_id": 107,
+        "field_1": 106,
+        "pl_name": "Sekolah Menengah Atas Negeri 45 Jakarta",
+        "sekolah": "SMAN 45 JAKARTA",
+        "dist": 35.4615103924,
+        "bujur": 106.9056,
+        "lintang": -6.1746,
+        "lng": 106.9056442,
+        "lat": -6.1749176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778576,
+          -6.139259
+        ]
+      },
+      "properties": {
+        "cartodb_id": 108,
+        "field_1": 107,
+        "pl_name": "Tk Smu Permata Indah",
+        "sekolah": "SMAS PERMATA INDAH JAKARTA",
+        "dist": 59.9294541149,
+        "bujur": 106.7781,
+        "lintang": -6.139,
+        "lng": 106.7785756,
+        "lat": -6.139259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.890719,
+          -6.114861
+        ]
+      },
+      "properties": {
+        "cartodb_id": 109,
+        "field_1": 108,
+        "pl_name": "Sekolah Menengah Atas Mutiara I",
+        "sekolah": "SMAS MUTIARA 1 JAKARTA",
+        "dist": 455.240436407,
+        "bujur": 106.8926,
+        "lintang": -6.1112,
+        "lng": 106.8907188,
+        "lat": -6.1148607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.861788,
+          -6.137674
+        ]
+      },
+      "properties": {
+        "cartodb_id": 110,
+        "field_1": 109,
+        "pl_name": "SMA Negeri 15",
+        "sekolah": "SMAN 15 JAKARTA",
+        "dist": 16.9964669558,
+        "bujur": 106.8617,
+        "lintang": -6.1378,
+        "lng": 106.8617875,
+        "lat": -6.1376737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790434,
+          -6.135914
+        ]
+      },
+      "properties": {
+        "cartodb_id": 111,
+        "field_1": 110,
+        "pl_name": "Sekolah Menengah Atas Methodist",
+        "sekolah": "SMAS METHODIST JAKARTA",
+        "dist": 438.766092444,
+        "bujur": 106.7865,
+        "lintang": -6.1364,
+        "lng": 106.7904342,
+        "lat": -6.1359139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.872073,
+          -6.121053
+        ]
+      },
+      "properties": {
+        "cartodb_id": 112,
+        "field_1": 111,
+        "pl_name": "SMA Negeri 18 Jakarta",
+        "sekolah": "SMAN 18 JAKARTA",
+        "dist": 107.709044275,
+        "bujur": 106.8723,
+        "lintang": -6.122,
+        "lng": 106.8720734,
+        "lat": -6.1210528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90974,
+          -6.163693
+        ]
+      },
+      "properties": {
+        "cartodb_id": 113,
+        "field_1": 112,
+        "pl_name": "Sekolah Menengah Atas Islam Al Azhar Kelapa Gading",
+        "sekolah": "SMA ISLAM AL-AZHAR KELAPA GADING",
+        "dist": 21.8476945693,
+        "bujur": 106.9097,
+        "lintang": -6.1635,
+        "lng": 106.9097403,
+        "lat": -6.1636934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.789511,
+          -6.111958
+        ]
+      },
+      "properties": {
+        "cartodb_id": 114,
+        "field_1": 113,
+        "pl_name": "Sekolah Menengah Atas Katolik Diakonia",
+        "sekolah": "SMAS KATOLIK DIAKONIA JAKARTA",
+        "dist": 19.9263928574,
+        "bujur": 106.7894,
+        "lintang": -6.1121,
+        "lng": 106.7895112,
+        "lat": -6.1119583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.843327,
+          -6.142045
+        ]
+      },
+      "properties": {
+        "cartodb_id": 115,
+        "field_1": 114,
+        "pl_name": "Sekolah Menengah Atas Santa Maria Della Strada",
+        "sekolah": "SMAS ST MARIA DELLA STRADA",
+        "dist": 1493.37257398,
+        "bujur": 106.8342,
+        "lintang": -6.1321,
+        "lng": 106.8433273,
+        "lat": -6.142045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76598,
+          -6.128556
+        ]
+      },
+      "properties": {
+        "cartodb_id": 116,
+        "field_1": 115,
+        "pl_name": "Bina Bangsa School 培民学校",
+        "sekolah": "SMA BINA BANGSA SCHOOL PANTAI INDAH KAPUK",
+        "dist": 211.411707045,
+        "bujur": 106.76576,
+        "lintang": -6.130455,
+        "lng": 106.76598,
+        "lat": -6.128556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.872833,
+          -6.303626
+        ]
+      },
+      "properties": {
+        "cartodb_id": 117,
+        "field_1": 116,
+        "pl_name": "Sekolah Menengah Atas Wijaya Kusuma",
+        "sekolah": "SMAS WIJAYA KUSUMA JAKARTA",
+        "dist": 20149.7463981,
+        "bujur": 106.8017,
+        "lintang": -6.1359,
+        "lng": 106.8728334,
+        "lat": -6.3036256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90877,
+          -6.11936
+        ]
+      },
+      "properties": {
+        "cartodb_id": 118,
+        "field_1": 117,
+        "pl_name": "Sekolah Menengah Atas Uswatun Hasanah",
+        "sekolah": "SMAS YUSHA JAKARTA",
+        "dist": 30.2555231665,
+        "bujur": 106.9085,
+        "lintang": -6.1194,
+        "lng": 106.9087704,
+        "lat": -6.11936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92775,
+          -6.14113
+        ]
+      },
+      "properties": {
+        "cartodb_id": 119,
+        "field_1": 118,
+        "pl_name": "SMA Yanic",
+        "sekolah": "SMAS YANIIC JAKARTA",
+        "dist": 6.45242100192,
+        "bujur": 106.9278,
+        "lintang": -6.1411,
+        "lng": 106.92775,
+        "lat": -6.14113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.911112,
+          -6.114741
+        ]
+      },
+      "properties": {
+        "cartodb_id": 120,
+        "field_1": 119,
+        "pl_name": "SMA Tanjung Priok",
+        "sekolah": "SMAS TANJUNG PRIOK JAKARTA",
+        "dist": 4.68045017496,
+        "bujur": 106.9111,
+        "lintang": -6.1147,
+        "lng": 106.9111116,
+        "lat": -6.1147407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.852839,
+          -6.130377
+        ]
+      },
+      "properties": {
+        "cartodb_id": 121,
+        "field_1": 120,
+        "pl_name": "SMAN 41 Jakarta",
+        "sekolah": "SMAN 41 JAKARTA",
+        "dist": 37.5950325515,
+        "bujur": 106.8525,
+        "lintang": -6.1304,
+        "lng": 106.8528389,
+        "lat": -6.1303774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.863473,
+          -6.132755
+        ]
+      },
+      "properties": {
+        "cartodb_id": 122,
+        "field_1": 121,
+        "pl_name": "Sekolah Lentera Kasih",
+        "sekolah": "SMA LENTERA KASIH",
+        "dist": 1504.01158979,
+        "bujur": 106.874105,
+        "lintang": -6.141225,
+        "lng": 106.8634734,
+        "lat": -6.1327554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.915265,
+          -6.165883
+        ]
+      },
+      "properties": {
+        "cartodb_id": 123,
+        "field_1": 122,
+        "pl_name": "Sekolah Menengah Pertama Saint Peter School",
+        "sekolah": "SMA SAINT PETER SCHOOL",
+        "dist": 859.951632671,
+        "bujur": 106.908698,
+        "lintang": -6.17004,
+        "lng": 106.9152645,
+        "lat": -6.1658832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.803781,
+          -6.122033
+        ]
+      },
+      "properties": {
+        "cartodb_id": 124,
+        "field_1": 123,
+        "pl_name": "Sekolah Menengah Atas Harapan Kasih",
+        "sekolah": "SMAS HARAPAN KASIH JAKARTA",
+        "dist": 1127.56276879,
+        "bujur": 106.7973,
+        "lintang": -6.1299,
+        "lng": 106.8037805,
+        "lat": -6.1220331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.908006,
+          -6.147612
+        ]
+      },
+      "properties": {
+        "cartodb_id": 125,
+        "field_1": 124,
+        "pl_name": "Sekolah Menengah Atas Kristen 5 Penabur Kelapa Gading",
+        "sekolah": "SMAS KRISTEN 5 BPK PENABUR",
+        "dist": 68.4718499999,
+        "bujur": 106.9082,
+        "lintang": -6.1482,
+        "lng": 106.9080062,
+        "lat": -6.147612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78495,
+          -6.138853
+        ]
+      },
+      "properties": {
+        "cartodb_id": 126,
+        "field_1": 125,
+        "pl_name": "Sekolah Menengah Umum Pusaka Abadi",
+        "sekolah": "SMAS PUSAKA ABADI JAKARTA",
+        "dist": 49.7778778033,
+        "bujur": 106.785,
+        "lintang": -6.1393,
+        "lng": 106.7849497,
+        "lat": -6.1388527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.917294,
+          -6.116901
+        ]
+      },
+      "properties": {
+        "cartodb_id": 127,
+        "field_1": 126,
+        "pl_name": "SMA Nusantara",
+        "sekolah": "SMAS NUSANTARA JAKARTA",
+        "dist": 408.740608868,
+        "bujur": 106.9204,
+        "lintang": -6.1189,
+        "lng": 106.917294,
+        "lat": -6.116901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.915852,
+          -6.1519
+        ]
+      },
+      "properties": {
+        "cartodb_id": 128,
+        "field_1": 127,
+        "pl_name": "JAC School @ Kelapa Gading, Jakarta",
+        "sekolah": "SMA JAC",
+        "dist": 2670.87163901,
+        "bujur": 106.8930039,
+        "lintang": -6.1596702,
+        "lng": 106.915852,
+        "lat": -6.1519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77065,
+          -6.1392
+        ]
+      },
+      "properties": {
+        "cartodb_id": 129,
+        "field_1": 128,
+        "pl_name": "SMA Chandra Kusuma",
+        "sekolah": "SMAS CHANDRA KUSUMA JAKARTA",
+        "dist": 5.53420478841,
+        "bujur": 106.7707,
+        "lintang": -6.1392,
+        "lng": 106.77065,
+        "lat": -6.1392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.927088,
+          -6.156421
+        ]
+      },
+      "properties": {
+        "cartodb_id": 130,
+        "field_1": 129,
+        "pl_name": "SMAN 83 Jakarta",
+        "sekolah": "SMAN 83 JAKARTA",
+        "dist": 49.4697784769,
+        "bujur": 106.9274,
+        "lintang": -6.1561,
+        "lng": 106.9270885,
+        "lat": -6.1564208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.766043,
+          -6.127159
+        ]
+      },
+      "properties": {
+        "cartodb_id": 131,
+        "field_1": 130,
+        "pl_name": "Singapore School Pantai Indah Kapuk",
+        "sekolah": "SMA SIS PIK",
+        "dist": 1153.26376473,
+        "bujur": 106.759055,
+        "lintang": -6.119424,
+        "lng": 106.7660431,
+        "lat": -6.1271591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.744488,
+          -6.120884
+        ]
+      },
+      "properties": {
+        "cartodb_id": 132,
+        "field_1": 131,
+        "pl_name": "SMA Kristen Saint Nicholas",
+        "sekolah": "SMAS KRISTEN SAINT NICHOLAS",
+        "dist": 4053.9230974,
+        "bujur": 106.7758,
+        "lintang": -6.1399,
+        "lng": 106.744488,
+        "lat": -6.120884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.754149,
+          -6.130118
+        ]
+      },
+      "properties": {
+        "cartodb_id": 133,
+        "field_1": 132,
+        "pl_name": "PELANGI KASIH SCHOOL",
+        "sekolah": "SMA PELANGI KASIH",
+        "dist": 5099.52096338,
+        "bujur": 106.7197,
+        "lintang": -6.0995,
+        "lng": 106.7541494,
+        "lat": -6.1301178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.840714,
+          -6.132111
+        ]
+      },
+      "properties": {
+        "cartodb_id": 134,
+        "field_1": 133,
+        "pl_name": "SMAN 40 Jakarta",
+        "sekolah": "SMAN 40 JAKARTA",
+        "dist": 1068.90381533,
+        "bujur": 106.8311,
+        "lintang": -6.1312,
+        "lng": 106.840714,
+        "lat": -6.1321112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.782459,
+          -6.136416
+        ]
+      },
+      "properties": {
+        "cartodb_id": 135,
+        "field_1": 134,
+        "pl_name": "Darma Satria Persada",
+        "sekolah": "SMA DARMA SATRIA PERSADA",
+        "dist": 985.615861843,
+        "bujur": 106.774,
+        "lintang": -6.1392,
+        "lng": 106.7824592,
+        "lat": -6.1364164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9332,
+          -6.13187
+        ]
+      },
+      "properties": {
+        "cartodb_id": 136,
+        "field_1": 135,
+        "pl_name": "SMA Nurul Falah",
+        "sekolah": "SMAS NURUL FALAH JAKARTA",
+        "dist": 2728.90638965,
+        "bujur": 106.9259,
+        "lintang": -6.1083,
+        "lng": 106.9332,
+        "lat": -6.13187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.915742,
+          -6.153134
+        ]
+      },
+      "properties": {
+        "cartodb_id": 137,
+        "field_1": 136,
+        "pl_name": "SMA St. Yakobus",
+        "sekolah": "SMAS SANTO YAKOBUS JAKARTA",
+        "dist": 41.0187635461,
+        "bujur": 106.9158,
+        "lintang": -6.1535,
+        "lng": 106.9157417,
+        "lat": -6.1531337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.885018,
+          -6.163073
+        ]
+      },
+      "properties": {
+        "cartodb_id": 138,
+        "field_1": 137,
+        "pl_name": "SMA PGRI 12",
+        "sekolah": "SMAS PGRI 12 JAKARTA",
+        "dist": 32.1411880359,
+        "bujur": 106.8852,
+        "lintang": -6.1633,
+        "lng": 106.8850184,
+        "lat": -6.1630732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.873683,
+          -6.158982
+        ]
+      },
+      "properties": {
+        "cartodb_id": 139,
+        "field_1": 138,
+        "pl_name": "Sekolah Menengah Atas Wijaya",
+        "sekolah": "SMAS WIJAYA JAKARTA",
+        "dist": 49.6370445235,
+        "bujur": 106.874,
+        "lintang": -6.1593,
+        "lng": 106.8736834,
+        "lat": -6.1589821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.915691,
+          -6.17367
+        ]
+      },
+      "properties": {
+        "cartodb_id": 140,
+        "field_1": 139,
+        "pl_name": "Marie Joseph School",
+        "sekolah": "SMAS MARIE JOSEPH",
+        "dist": 117.063698981,
+        "bujur": 106.9148,
+        "lintang": -6.1731,
+        "lng": 106.9156912,
+        "lat": -6.1736701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.904775,
+          -6.15538
+        ]
+      },
+      "properties": {
+        "cartodb_id": 141,
+        "field_1": 140,
+        "pl_name": "Saint Peter's Kindergarten",
+        "sekolah": "SMAS SAINT PETER",
+        "dist": 1552.56393922,
+        "bujur": 106.9148,
+        "lintang": -6.1652,
+        "lng": 106.9047752,
+        "lat": -6.1553799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92399,
+          -6.134744
+        ]
+      },
+      "properties": {
+        "cartodb_id": 142,
+        "field_1": 141,
+        "pl_name": "SMA Negeri 75 Jakarta",
+        "sekolah": "SMAN 75 JAKARTA",
+        "dist": 4.99605928403,
+        "bujur": 106.924,
+        "lintang": -6.1347,
+        "lng": 106.9239902,
+        "lat": -6.1347441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91652,
+          -6.149388
+        ]
+      },
+      "properties": {
+        "cartodb_id": 143,
+        "field_1": 142,
+        "pl_name": "Singapore International School (SIS) Kelapa Gading",
+        "sekolah": "SMA SIS KELAPA GADING",
+        "dist": 2107.78502619,
+        "bujur": 106.91307,
+        "lintang": -6.168133,
+        "lng": 106.9165199,
+        "lat": -6.1493884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9132,
+          -6.13193
+        ]
+      },
+      "properties": {
+        "cartodb_id": 144,
+        "field_1": 143,
+        "pl_name": "SMA Laphat Plus",
+        "sekolah": "SMAS LAPHAT PLUS",
+        "dist": 3.31760838245,
+        "bujur": 106.9132,
+        "lintang": -6.1319,
+        "lng": 106.9132,
+        "lat": -6.13193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790166,
+          -6.140974
+        ]
+      },
+      "properties": {
+        "cartodb_id": 145,
+        "field_1": 144,
+        "pl_name": "Sekolah Menengah Umum Budhidaya",
+        "sekolah": "SMAS TRI DARMA BUDHIDAYA",
+        "dist": 20.4134102299,
+        "bujur": 106.7903,
+        "lintang": -6.1411,
+        "lng": 106.7901655,
+        "lat": -6.1409737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.884275,
+          -6.163104
+        ]
+      },
+      "properties": {
+        "cartodb_id": 146,
+        "field_1": 145,
+        "pl_name": "SMAN 72 Jakarta",
+        "sekolah": "SMAN 72 JAKARTA",
+        "dist": 56.7015030518,
+        "bujur": 106.8846,
+        "lintang": -6.1635,
+        "lng": 106.8842747,
+        "lat": -6.1631039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77492,
+          -6.114944
+        ]
+      },
+      "properties": {
+        "cartodb_id": 147,
+        "field_1": 146,
+        "pl_name": "Sekolah Menengah Pertama Kristen 6 Penabur",
+        "sekolah": "SMAS KRISTEN 6 PENABUR",
+        "dist": 60.9451653206,
+        "bujur": 106.7745,
+        "lintang": -6.1153,
+        "lng": 106.7749203,
+        "lat": -6.114944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.794774,
+          -6.141292
+        ]
+      },
+      "properties": {
+        "cartodb_id": 148,
+        "field_1": 147,
+        "pl_name": "Sekolah Menengah Atas Kristen yusuf jakarta utara",
+        "sekolah": "SMAS KRISTEN YUSUF",
+        "dist": 12.3041244579,
+        "bujur": 106.7948,
+        "lintang": -6.1414,
+        "lng": 106.7947741,
+        "lat": -6.1412918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7559,
+          -6.19337
+        ]
+      },
+      "properties": {
+        "cartodb_id": 149,
+        "field_1": 148,
+        "pl_name": "SMA Tunas Muda",
+        "sekolah": "SMAS TUNAS MUDA",
+        "dist": 11.5539639422,
+        "bujur": 106.756,
+        "lintang": -6.1934,
+        "lng": 106.7559,
+        "lat": -6.19337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.782943,
+          -6.191713
+        ]
+      },
+      "properties": {
+        "cartodb_id": 150,
+        "field_1": 149,
+        "pl_name": "SMA Negeri 78",
+        "sekolah": "SMAN 78 JAKARTA",
+        "dist": 38.015529279,
+        "bujur": 106.7828,
+        "lintang": -6.1914,
+        "lng": 106.7829429,
+        "lat": -6.1917126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.758935,
+          -6.215262
+        ]
+      },
+      "properties": {
+        "cartodb_id": 151,
+        "field_1": 150,
+        "pl_name": "SMAN 85 Jakarta",
+        "sekolah": "SMAN 85 JAKARTA",
+        "dist": 23.829154095,
+        "bujur": 106.7591,
+        "lintang": -6.2154,
+        "lng": 106.7589348,
+        "lat": -6.2152618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.712324,
+          -6.131841
+        ]
+      },
+      "properties": {
+        "cartodb_id": 153,
+        "field_1": 152,
+        "pl_name": "Sekolah Kasih Kemuliaan",
+        "sekolah": "SMA KRISTEN KASIH KEMULIAAN",
+        "dist": 3312.09861555,
+        "bujur": 106.707748,
+        "lintang": -6.161439,
+        "lng": 106.712324,
+        "lat": -6.1318411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763861,
+          -6.217481
+        ]
+      },
+      "properties": {
+        "cartodb_id": 154,
+        "field_1": 153,
+        "pl_name": "NationalHigh Jakarta School",
+        "sekolah": "SMA NATIONALHIGH JAKARTA SCHOOL",
+        "dist": 2404.97715835,
+        "bujur": 106.747912,
+        "lintang": -6.20271,
+        "lng": 106.7638613,
+        "lat": -6.217481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.792835,
+          -6.143095
+        ]
+      },
+      "properties": {
+        "cartodb_id": 155,
+        "field_1": 154,
+        "pl_name": "Sekolah Menengah Atas Dhammasavana",
+        "sekolah": "SMAS DHAMASAVANA",
+        "dist": 246.539333075,
+        "bujur": 106.7914,
+        "lintang": -6.1448,
+        "lng": 106.7928346,
+        "lat": -6.1430946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.720668,
+          -6.221165
+        ]
+      },
+      "properties": {
+        "cartodb_id": 156,
+        "field_1": 155,
+        "pl_name": "SMA Yadika 5",
+        "sekolah": "SMAS 5 YADIKA",
+        "dist": 3680.28054735,
+        "bujur": 106.7259,
+        "lintang": -6.1883,
+        "lng": 106.7206677,
+        "lat": -6.2211649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.711464,
+          -6.174743
+        ]
+      },
+      "properties": {
+        "cartodb_id": 157,
+        "field_1": 156,
+        "pl_name": "Sekolah Narada (National Plus)",
+        "sekolah": "SMAS NARADA",
+        "dist": 564.751923265,
+        "bujur": 106.715741,
+        "lintang": -6.171958,
+        "lng": 106.7114641,
+        "lat": -6.1747433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.703525,
+          -6.123432
+        ]
+      },
+      "properties": {
+        "cartodb_id": 158,
+        "field_1": 157,
+        "pl_name": "Sekolah Dian Kasih Nasional SD - SMP - SMA",
+        "sekolah": "SMAS DIAN KASIH",
+        "dist": 1129.50139907,
+        "bujur": 106.6969,
+        "lintang": -6.1312,
+        "lng": 106.7035253,
+        "lat": -6.1234318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.795444,
+          -6.187071
+        ]
+      },
+      "properties": {
+        "cartodb_id": 159,
+        "field_1": 158,
+        "pl_name": "SMA Muhammadiyah 15 Jakarta",
+        "sekolah": "SMAS MUHAMMADIYAH 15",
+        "dist": 9.2379811082,
+        "bujur": 106.7954,
+        "lintang": -6.187,
+        "lng": 106.7954443,
+        "lat": -6.1870708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796881,
+          -6.176196
+        ]
+      },
+      "properties": {
+        "cartodb_id": 160,
+        "field_1": 159,
+        "pl_name": "SMA Muhammadiyah 13 Jakarta Barat",
+        "sekolah": "SMAS MUHAMMADIYAH 13 JAKARTA",
+        "dist": 56.9989221393,
+        "bujur": 106.7972,
+        "lintang": -6.1766,
+        "lng": 106.7968807,
+        "lat": -6.1761956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74763,
+          -6.146893
+        ]
+      },
+      "properties": {
+        "cartodb_id": 161,
+        "field_1": 160,
+        "pl_name": "Sekolah Menengah Umum Katolik Bintang Kejora",
+        "sekolah": "SMAS KATHOLIK BINTANG KEJORA",
+        "dist": 1333.05381766,
+        "bujur": 106.7365,
+        "lintang": -6.1515,
+        "lng": 106.7476296,
+        "lat": -6.1468931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.695356,
+          -6.129171
+        ]
+      },
+      "properties": {
+        "cartodb_id": 162,
+        "field_1": 161,
+        "pl_name": "Sekolah Menengah Atas Fajrul Islam",
+        "sekolah": "SMAS FAJRUL ISLAM",
+        "dist": 22.3527102959,
+        "bujur": 106.6952,
+        "lintang": -6.1293,
+        "lng": 106.6953558,
+        "lat": -6.1291714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.62686,
+          -6.218179
+        ]
+      },
+      "properties": {
+        "cartodb_id": 163,
+        "field_1": 162,
+        "pl_name": "SMP Dian Harapan Lippo Village",
+        "sekolah": "SMAS DIAN HARAPAN",
+        "dist": 11841.8227046,
+        "bujur": 106.7075,
+        "lintang": -6.1478,
+        "lng": 106.6268603,
+        "lat": -6.2181788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.772121,
+          -6.154969
+        ]
+      },
+      "properties": {
+        "cartodb_id": 164,
+        "field_1": 163,
+        "pl_name": "Sekolah Menengah Atas Tunas Harapan",
+        "sekolah": "SMAS TUNAS HARAPAN",
+        "dist": 53.6128441623,
+        "bujur": 106.7719,
+        "lintang": -6.1554,
+        "lng": 106.7721212,
+        "lat": -6.1549687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821214,
+          -6.149176
+        ]
+      },
+      "properties": {
+        "cartodb_id": 165,
+        "field_1": 164,
+        "pl_name": "Sekolah Menengah Atas Santo Leo",
+        "sekolah": "SMAS SANTO LEO",
+        "dist": 126.299458058,
+        "bujur": 106.8202,
+        "lintang": -6.1497,
+        "lng": 106.821214,
+        "lat": -6.1491762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.729964,
+          -6.151273
+        ]
+      },
+      "properties": {
+        "cartodb_id": 166,
+        "field_1": 165,
+        "pl_name": "SMA IP YAKIN",
+        "sekolah": "SMAS IP YAKIN",
+        "dist": 20.5873278747,
+        "bujur": 106.7301,
+        "lintang": -6.1514,
+        "lng": 106.729964,
+        "lat": -6.151273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.815211,
+          -6.158578
+        ]
+      },
+      "properties": {
+        "cartodb_id": 167,
+        "field_1": 166,
+        "pl_name": "Sekolah Menengah Atas Tri Ratna",
+        "sekolah": "SMAS TRI RATNA",
+        "dist": 8.71616780874,
+        "bujur": 106.8152,
+        "lintang": -6.1585,
+        "lng": 106.8152106,
+        "lat": -6.1585781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.746614,
+          -6.17656
+        ]
+      },
+      "properties": {
+        "cartodb_id": 168,
+        "field_1": 167,
+        "pl_name": "Global Sevilla School",
+        "sekolah": "SMAS  GLOBAL SEVILLA PURI INDAH",
+        "dist": 93.7752279344,
+        "bujur": 106.7462,
+        "lintang": -6.1773,
+        "lng": 106.7466141,
+        "lat": -6.1765602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.752247,
+          -6.218471
+        ]
+      },
+      "properties": {
+        "cartodb_id": 169,
+        "field_1": 168,
+        "pl_name": "SMA Sumpah Pemuda",
+        "sekolah": "SMAS SUMPAH PEMUDA",
+        "dist": 1711.77584329,
+        "bujur": 106.7369,
+        "lintang": -6.2204,
+        "lng": 106.752247,
+        "lat": -6.218471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.717862,
+          -6.142407
+        ]
+      },
+      "properties": {
+        "cartodb_id": 170,
+        "field_1": 169,
+        "pl_name": "Sekolah Menengah Atas Cengkareng 1",
+        "sekolah": "SMAS CENGKARENG 1",
+        "dist": 43.0275078092,
+        "bujur": 106.7182,
+        "lintang": -6.1426,
+        "lng": 106.7178624,
+        "lat": -6.1424071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.776659,
+          -6.156808
+        ]
+      },
+      "properties": {
+        "cartodb_id": 171,
+        "field_1": 170,
+        "pl_name": "Sekolah Menengah Atas Pelita Kudus",
+        "sekolah": "SMAS PELITA KUDUS",
+        "dist": 17.6781492635,
+        "bujur": 106.7765,
+        "lintang": -6.1568,
+        "lng": 106.7766595,
+        "lat": -6.1568084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808969,
+          -6.142257
+        ]
+      },
+      "properties": {
+        "cartodb_id": 172,
+        "field_1": 171,
+        "pl_name": "SMA Negeri 19 Jakarta",
+        "sekolah": "SMAN 19 JAKARTA",
+        "dist": 1474.37411697,
+        "bujur": 106.8221,
+        "lintang": -6.1445,
+        "lng": 106.8089694,
+        "lat": -6.1422567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.732482,
+          -6.168849
+        ]
+      },
+      "properties": {
+        "cartodb_id": 173,
+        "field_1": 172,
+        "pl_name": "Sekolah Vianney",
+        "sekolah": "SMAS VIANNEY",
+        "dist": 362.573918535,
+        "bujur": 106.7301,
+        "lintang": -6.1711,
+        "lng": 106.7324818,
+        "lat": -6.168849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715816,
+          -6.171604
+        ]
+      },
+      "properties": {
+        "cartodb_id": 174,
+        "field_1": 173,
+        "pl_name": "Sekolah Menengah Atas Kristen Kalam Kudus II",
+        "sekolah": "SMAS KRISTEN KALAM KUDUS",
+        "dist": 12077.6116409,
+        "bujur": 106.8211,
+        "lintang": -6.1429,
+        "lng": 106.7158159,
+        "lat": -6.1716039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796836,
+          -6.201487
+        ]
+      },
+      "properties": {
+        "cartodb_id": 175,
+        "field_1": 174,
+        "pl_name": "Regina Pacis Jakarta High School",
+        "sekolah": "SMAS REGINA PACIS",
+        "dist": 11.9656420837,
+        "bujur": 106.7969,
+        "lintang": -6.2014,
+        "lng": 106.7968364,
+        "lat": -6.2014875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807445,
+          -6.18577
+        ]
+      },
+      "properties": {
+        "cartodb_id": 176,
+        "field_1": 175,
+        "pl_name": "Sekolah Menengah Atas Josua",
+        "sekolah": "SMAS JOSUA",
+        "dist": 33.8620184818,
+        "bujur": 106.8073,
+        "lintang": -6.1855,
+        "lng": 106.8074445,
+        "lat": -6.1857699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.726977,
+          -6.149234
+        ]
+      },
+      "properties": {
+        "cartodb_id": 177,
+        "field_1": 176,
+        "pl_name": "SMA Negeri 33 Jakarta",
+        "sekolah": "SMAN 33 JAKARTA",
+        "dist": 47.3602469313,
+        "bujur": 106.7274,
+        "lintang": -6.1493,
+        "lng": 106.7269773,
+        "lat": -6.1492335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.699928,
+          -6.138701
+        ]
+      },
+      "properties": {
+        "cartodb_id": 178,
+        "field_1": 177,
+        "pl_name": "Sekolah Djuwita",
+        "sekolah": "SMAS DJUWITA",
+        "dist": 201.947982348,
+        "bujur": 106.70172,
+        "lintang": -6.138357,
+        "lng": 106.6999282,
+        "lat": -6.1387013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7808,
+          -6.189624
+        ]
+      },
+      "properties": {
+        "cartodb_id": 179,
+        "field_1": 178,
+        "pl_name": "Sang Timur Senior High School",
+        "sekolah": "SMAS KATOLIK SANG TIMUR",
+        "dist": 102.984842791,
+        "bujur": 106.78,
+        "lintang": -6.1901,
+        "lng": 106.7807996,
+        "lat": -6.1896237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793572,
+          -6.162804
+        ]
+      },
+      "properties": {
+        "cartodb_id": 180,
+        "field_1": 179,
+        "pl_name": "Sekolah Menengah Atas Baptis Elim",
+        "sekolah": "SMAS BAPTIS ELIM",
+        "dist": 400.16858635,
+        "bujur": 106.7917,
+        "lintang": -6.1659,
+        "lng": 106.7935723,
+        "lat": -6.1628044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.719752,
+          -6.13924
+        ]
+      },
+      "properties": {
+        "cartodb_id": 181,
+        "field_1": 180,
+        "pl_name": "Sekolah Menengah Atas Kasih Karunia",
+        "sekolah": "SMAS KASIH KARUNIA",
+        "dist": 42.7834632257,
+        "bujur": 106.7194,
+        "lintang": -6.1394,
+        "lng": 106.7197517,
+        "lat": -6.1392395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802057,
+          -6.155856
+        ]
+      },
+      "properties": {
+        "cartodb_id": 182,
+        "field_1": 181,
+        "pl_name": "SMA Pelita",
+        "sekolah": "SMAS PELITA 2",
+        "dist": 3521.2665596,
+        "bujur": 106.7719,
+        "lintang": -6.166,
+        "lng": 106.802057,
+        "lat": -6.1558561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71502,
+          -6.14649
+        ]
+      },
+      "properties": {
+        "cartodb_id": 183,
+        "field_1": 182,
+        "pl_name": "SMA Tunas Indonesia",
+        "sekolah": "SMAS TUNAS INDONESIA",
+        "dist": 1778.47366385,
+        "bujur": 106.7135,
+        "lintang": -6.1625,
+        "lng": 106.71502,
+        "lat": -6.14649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.782004,
+          -6.199579
+        ]
+      },
+      "properties": {
+        "cartodb_id": 184,
+        "field_1": 183,
+        "pl_name": "Tarsisius 2",
+        "sekolah": "SMAS  TARSISIUS II",
+        "dist": 48.0583002776,
+        "bujur": 106.7824,
+        "lintang": -6.1994,
+        "lng": 106.7820044,
+        "lat": -6.1995792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831232,
+          -6.166538
+        ]
+      },
+      "properties": {
+        "cartodb_id": 185,
+        "field_1": 184,
+        "pl_name": "SMA Kristen 2 Penabur",
+        "sekolah": "SMAS KRISTEN 8 PENABUR",
+        "dist": 4649.59043696,
+        "bujur": 106.7914,
+        "lintang": -6.1799,
+        "lng": 106.831232,
+        "lat": -6.166538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790897,
+          -6.147976
+        ]
+      },
+      "properties": {
+        "cartodb_id": 186,
+        "field_1": 185,
+        "pl_name": "Sekolah Menengah Atas Kristen Pancaran Berkat",
+        "sekolah": "SMAS KRISTEN PANCARAN BERKAT",
+        "dist": 221.425638963,
+        "bujur": 106.7896,
+        "lintang": -6.1495,
+        "lng": 106.7908973,
+        "lat": -6.1479758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707167,
+          -6.116338
+        ]
+      },
+      "properties": {
+        "cartodb_id": 187,
+        "field_1": 186,
+        "pl_name": "Sekolah Menengah Atas Panindi",
+        "sekolah": "SMAS PADINDI",
+        "dist": 7.80317243259,
+        "bujur": 106.7072,
+        "lintang": -6.1164,
+        "lng": 106.7071669,
+        "lat": -6.1163377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.695311,
+          -6.144092
+        ]
+      },
+      "properties": {
+        "cartodb_id": 188,
+        "field_1": 187,
+        "pl_name": "SMP Bina Kusuma",
+        "sekolah": "SMAS BINA KUSUMA MULIA",
+        "dist": 4758.1552328,
+        "bujur": 106.6936,
+        "lintang": -6.1011,
+        "lng": 106.6953108,
+        "lat": -6.1440923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.716805,
+          -6.140945
+        ]
+      },
+      "properties": {
+        "cartodb_id": 189,
+        "field_1": 188,
+        "pl_name": "Sekolah Menengah Atas Galatia 3",
+        "sekolah": "SMAS 3 GALATIA",
+        "dist": 11.6369985578,
+        "bujur": 106.7169,
+        "lintang": -6.1409,
+        "lng": 106.7168052,
+        "lat": -6.1409455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808157,
+          -6.150664
+        ]
+      },
+      "properties": {
+        "cartodb_id": 190,
+        "field_1": 189,
+        "pl_name": "Sekolah Menengah Atas Bhineka Tunggal Ika",
+        "sekolah": "SMAS BHINEKA TUNGGAL IKA",
+        "dist": 409.987932841,
+        "bujur": 106.8066,
+        "lintang": -6.1473,
+        "lng": 106.8081569,
+        "lat": -6.150664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73317,
+          -6.154163
+        ]
+      },
+      "properties": {
+        "cartodb_id": 191,
+        "field_1": 190,
+        "pl_name": "SMA Harapan Jaya 1",
+        "sekolah": "SMAS HARAPAN JAYA",
+        "dist": 57.3852488981,
+        "bujur": 106.7328,
+        "lintang": -6.1538,
+        "lng": 106.7331703,
+        "lat": -6.1541632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79771,
+          -6.172499
+        ]
+      },
+      "properties": {
+        "cartodb_id": 192,
+        "field_1": 191,
+        "pl_name": "SMA Negeri 23 Jakarta",
+        "sekolah": "SMAN 23 JAKARTA",
+        "dist": 202.390212389,
+        "bujur": 106.7994,
+        "lintang": -6.1718,
+        "lng": 106.79771,
+        "lat": -6.172499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.738624,
+          -6.176313
+        ]
+      },
+      "properties": {
+        "cartodb_id": 193,
+        "field_1": 192,
+        "pl_name": "Springfield School",
+        "sekolah": "SMAS SPRINGFIELD",
+        "dist": 103.946612854,
+        "bujur": 106.7384,
+        "lintang": -6.1754,
+        "lng": 106.7386237,
+        "lat": -6.1763129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.757009,
+          -6.179466
+        ]
+      },
+      "properties": {
+        "cartodb_id": 194,
+        "field_1": 193,
+        "pl_name": "SMA Budi Murni 2",
+        "sekolah": "SMAS BUDI MURNI 2",
+        "dist": 533.098583467,
+        "bujur": 106.7561,
+        "lintang": -6.1842,
+        "lng": 106.757009,
+        "lat": -6.179466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79782,
+          -6.150226
+        ]
+      },
+      "properties": {
+        "cartodb_id": 195,
+        "field_1": 194,
+        "pl_name": "SMA CANDRA NAYA",
+        "sekolah": "SMAS CANDRA NAYA",
+        "dist": 179.857299519,
+        "bujur": 106.7962,
+        "lintang": -6.1501,
+        "lng": 106.7978201,
+        "lat": -6.1502259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.736866,
+          -6.163877
+        ]
+      },
+      "properties": {
+        "cartodb_id": 196,
+        "field_1": 195,
+        "pl_name": "Sekolah Menengah Atas Lamaholot",
+        "sekolah": "SMA LAMAHOLOT",
+        "dist": 52.8982898599,
+        "bujur": 106.7369,
+        "lintang": -6.1634,
+        "lng": 106.7368656,
+        "lat": -6.1638771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.758895,
+          -6.163182
+        ]
+      },
+      "properties": {
+        "cartodb_id": 197,
+        "field_1": 196,
+        "pl_name": "SMA Kristen Kalam Kudus",
+        "sekolah": "SMAS 3 KALAM KUDUS",
+        "dist": 2912.54954403,
+        "bujur": 106.7614,
+        "lintang": -6.1894,
+        "lng": 106.7588955,
+        "lat": -6.1631824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.722543,
+          -6.141199
+        ]
+      },
+      "properties": {
+        "cartodb_id": 198,
+        "field_1": 197,
+        "pl_name": "Sekolah Menengah Atas Pelita Kasih",
+        "sekolah": "SMAS PELITA KASIH",
+        "dist": 47.4802130054,
+        "bujur": 106.7227,
+        "lintang": -6.1408,
+        "lng": 106.7225426,
+        "lat": -6.1411994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.693779,
+          -6.150428
+        ]
+      },
+      "properties": {
+        "cartodb_id": 199,
+        "field_1": 198,
+        "pl_name": "Sekolah Menengah Atas San Marino",
+        "sekolah": "SMAS SAN MARINO",
+        "dist": 6.46777505673,
+        "bujur": 106.693731,
+        "lintang": -6.150394,
+        "lng": 106.6937789,
+        "lat": -6.1504275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.792292,
+          -6.201705
+        ]
+      },
+      "properties": {
+        "cartodb_id": 200,
+        "field_1": 199,
+        "pl_name": "Sekolah Menengah Atas Negeri 16 Jakarta",
+        "sekolah": "SMAN 16 JAKARTA",
+        "dist": 1148.28270317,
+        "bujur": 106.7862,
+        "lintang": -6.1933,
+        "lng": 106.7922921,
+        "lat": -6.2017051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802057,
+          -6.155856
+        ]
+      },
+      "properties": {
+        "cartodb_id": 201,
+        "field_1": 200,
+        "pl_name": "SMA Pelita",
+        "sekolah": "SMAS PELITA IV",
+        "dist": 18.0424705661,
+        "bujur": 106.8019,
+        "lintang": -6.1559,
+        "lng": 106.802057,
+        "lat": -6.1558561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.703833,
+          -6.126528
+        ]
+      },
+      "properties": {
+        "cartodb_id": 202,
+        "field_1": 201,
+        "pl_name": "SMA NEGERI",
+        "sekolah": "SMAN 95 JAKARTA",
+        "dist": 26.2543781706,
+        "bujur": 106.7039,
+        "lintang": -6.1263,
+        "lng": 106.7038332,
+        "lat": -6.1265278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.716876,
+          -6.134926
+        ]
+      },
+      "properties": {
+        "cartodb_id": 203,
+        "field_1": 202,
+        "pl_name": "Sekolah Menengah Atas Kanaan Global School",
+        "sekolah": "SMAS KANAAN GLOBAL SCHOOL",
+        "dist": 3.93972626428,
+        "bujur": 106.7169,
+        "lintang": -6.1349,
+        "lng": 106.7168761,
+        "lat": -6.1349264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.741318,
+          -6.165878
+        ]
+      },
+      "properties": {
+        "cartodb_id": 204,
+        "field_1": 203,
+        "pl_name": "Sekolah Menengah Atas Trinitas",
+        "sekolah": "SMAS TRINITAS JAKARTA",
+        "dist": 32.0124384334,
+        "bujur": 106.7414,
+        "lintang": -6.1656,
+        "lng": 106.741318,
+        "lat": -6.1658776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.768161,
+          -6.179415
+        ]
+      },
+      "properties": {
+        "cartodb_id": 205,
+        "field_1": 204,
+        "pl_name": "SMA YADIKA 1 DURI KEPA",
+        "sekolah": "SMAS 1 YADIKA",
+        "dist": 1506.61236129,
+        "bujur": 106.7817,
+        "lintang": -6.178,
+        "lng": 106.7681609,
+        "lat": -6.1794146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.779932,
+          -6.181629
+        ]
+      },
+      "properties": {
+        "cartodb_id": 206,
+        "field_1": 205,
+        "pl_name": "Abdi Siswa",
+        "sekolah": "SMAS KATOLIK ABDI SISWA",
+        "dist": 1237.25299874,
+        "bujur": 106.7714,
+        "lintang": -6.1744,
+        "lng": 106.779932,
+        "lat": -6.181629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763054,
+          -6.175309
+        ]
+      },
+      "properties": {
+        "cartodb_id": 207,
+        "field_1": 206,
+        "pl_name": "SMAK 4 PENABUR",
+        "sekolah": "SMAS 4 KRISTEN PENABUR",
+        "dist": 67.6769514104,
+        "bujur": 106.7626,
+        "lintang": -6.1749,
+        "lng": 106.7630545,
+        "lat": -6.1753094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771707,
+          -6.157733
+        ]
+      },
+      "properties": {
+        "cartodb_id": 208,
+        "field_1": 207,
+        "pl_name": "SMA YP - BDN",
+        "sekolah": "SMAS YP BDN",
+        "dist": 34.7776508887,
+        "bujur": 106.7714,
+        "lintang": -6.1578,
+        "lng": 106.771707,
+        "lat": -6.157733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778981,
+          -6.168432
+        ]
+      },
+      "properties": {
+        "cartodb_id": 209,
+        "field_1": 208,
+        "pl_name": "SMA Kemurnian",
+        "sekolah": "SMAS 2 KEMURNIAN",
+        "dist": 77.3048258539,
+        "bujur": 106.7795,
+        "lintang": -6.1689,
+        "lng": 106.7789809,
+        "lat": -6.1684323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74347,
+          -6.13101
+        ]
+      },
+      "properties": {
+        "cartodb_id": 210,
+        "field_1": 209,
+        "pl_name": "SMA Duta Bangsa",
+        "sekolah": "SMAS DUTA BANGSA",
+        "dist": 613.9735884,
+        "bujur": 106.7448,
+        "lintang": -6.1364,
+        "lng": 106.74347,
+        "lat": -6.13101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78123,
+          -6.1862
+        ]
+      },
+      "properties": {
+        "cartodb_id": 211,
+        "field_1": 210,
+        "pl_name": "Bina Bangsa School Secondary & Junior College",
+        "sekolah": "SMA BINA BANGSA SCHOOL",
+        "dist": 13.5087876395,
+        "bujur": 106.7813,
+        "lintang": -6.1861,
+        "lng": 106.7812299,
+        "lat": -6.1862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.724662,
+          -6.134568
+        ]
+      },
+      "properties": {
+        "cartodb_id": 212,
+        "field_1": 211,
+        "pl_name": "Sekolah Menengah Atas St. Kristoforus II",
+        "sekolah": "SMAS 2 SANTO KRISTOFORUS",
+        "dist": 37.3120162198,
+        "bujur": 106.7246,
+        "lintang": -6.1349,
+        "lng": 106.7246617,
+        "lat": -6.1345683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802205,
+          -6.192506
+        ]
+      },
+      "properties": {
+        "cartodb_id": 213,
+        "field_1": 212,
+        "pl_name": "SMA 1 Barunawati",
+        "sekolah": "SMAS 1 BARUNAWATI",
+        "dist": 287.177814521,
+        "bujur": 106.8012,
+        "lintang": -6.1949,
+        "lng": 106.8022049,
+        "lat": -6.1925058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778981,
+          -6.168432
+        ]
+      },
+      "properties": {
+        "cartodb_id": 214,
+        "field_1": 213,
+        "pl_name": "SMA Kemurnian",
+        "sekolah": "SMAS KEMURNIAN",
+        "dist": 4497.47398125,
+        "bujur": 106.8132,
+        "lintang": -6.1465,
+        "lng": 106.7789809,
+        "lat": -6.1684323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81583,
+          -6.148706
+        ]
+      },
+      "properties": {
+        "cartodb_id": 215,
+        "field_1": 214,
+        "pl_name": "SMA Negeri 2",
+        "sekolah": "SMAN 2 JAKARTA",
+        "dist": 37.6083259509,
+        "bujur": 106.8161,
+        "lintang": -6.1485,
+        "lng": 106.8158298,
+        "lat": -6.1487062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71862,
+          -6.17533
+        ]
+      },
+      "properties": {
+        "cartodb_id": 216,
+        "field_1": 215,
+        "pl_name": "SMA Cahaya Fadilah",
+        "sekolah": "SMAS CAHAYA FADILAH",
+        "dist": 9.45536292747,
+        "bujur": 106.7187,
+        "lintang": -6.1753,
+        "lng": 106.71862,
+        "lat": -6.17533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.726953,
+          -6.149778
+        ]
+      },
+      "properties": {
+        "cartodb_id": 217,
+        "field_1": 216,
+        "pl_name": "SMA AL-HUDA",
+        "sekolah": "SMAS AL HUDA CENGKARENG",
+        "dist": 39.3073378567,
+        "bujur": 106.7273,
+        "lintang": -6.1497,
+        "lng": 106.7269535,
+        "lat": -6.1497779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.783564,
+          -6.177466
+        ]
+      },
+      "properties": {
+        "cartodb_id": 218,
+        "field_1": 217,
+        "pl_name": "Sekolah Menengah Atas Al-Chasanah",
+        "sekolah": "SMAS AL CHASANAH",
+        "dist": 543.028844276,
+        "bujur": 106.7799,
+        "lintang": -6.1742,
+        "lng": 106.7835638,
+        "lat": -6.177466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.747263,
+          -6.143728
+        ]
+      },
+      "properties": {
+        "cartodb_id": 219,
+        "field_1": 218,
+        "pl_name": "SMA Baptis Cengkareng Indah",
+        "sekolah": "SMAS BAPTIS CENGKARENG INDAH",
+        "dist": 17.1560529701,
+        "bujur": 106.7474,
+        "lintang": -6.1438,
+        "lng": 106.7472626,
+        "lat": -6.1437282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.768734,
+          -6.200806
+        ]
+      },
+      "properties": {
+        "cartodb_id": 220,
+        "field_1": 219,
+        "pl_name": "SMAN 65",
+        "sekolah": "SMAN 65 JAKARTA",
+        "dist": 12.2971109368,
+        "bujur": 106.7687,
+        "lintang": -6.2007,
+        "lng": 106.7687342,
+        "lat": -6.2008058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.820027,
+          -6.143572
+        ]
+      },
+      "properties": {
+        "cartodb_id": 221,
+        "field_1": 220,
+        "pl_name": "Sekolah Menengah Atas Sentosa Pagi",
+        "sekolah": "SMAS SENTOSA",
+        "dist": 47.1926873696,
+        "bujur": 106.8203,
+        "lintang": -6.1439,
+        "lng": 106.820027,
+        "lat": -6.1435722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810048,
+          -6.145269
+        ]
+      },
+      "properties": {
+        "cartodb_id": 222,
+        "field_1": 221,
+        "pl_name": "Sekolah Menengah Atas Islam Tambora",
+        "sekolah": "SMAS ISLAM TAMBORA",
+        "dist": 6.39932762313,
+        "bujur": 106.81,
+        "lintang": -6.1453,
+        "lng": 106.8100485,
+        "lat": -6.1452685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.735443,
+          -6.192226
+        ]
+      },
+      "properties": {
+        "cartodb_id": 223,
+        "field_1": 222,
+        "pl_name": "IPEKA",
+        "sekolah": "SMAK IPEKA INTEGRATED CHRISTIAN SCHOOL",
+        "dist": 838.723674801,
+        "bujur": 106.7379,
+        "lintang": -6.1994,
+        "lng": 106.7354427,
+        "lat": -6.1922255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.719525,
+          -6.127607
+        ]
+      },
+      "properties": {
+        "cartodb_id": 224,
+        "field_1": 223,
+        "pl_name": "SMA CAKRA BUANA",
+        "sekolah": "SMAS CAKRA BUANA",
+        "dist": 13.216990979,
+        "bujur": 106.7196,
+        "lintang": -6.1277,
+        "lng": 106.719525,
+        "lat": -6.127607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.785291,
+          -6.159802
+        ]
+      },
+      "properties": {
+        "cartodb_id": 225,
+        "field_1": 224,
+        "pl_name": "Dharma Jaya Senior High School",
+        "sekolah": "SMAS DHARMA JAYA",
+        "dist": 425.780970861,
+        "bujur": 106.7859,
+        "lintang": -6.156,
+        "lng": 106.7852914,
+        "lat": -6.1598017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70452,
+          -6.1448
+        ]
+      },
+      "properties": {
+        "cartodb_id": 226,
+        "field_1": 225,
+        "pl_name": "SMAN 84 JAKARTA",
+        "sekolah": "SMAN 84 JAKARTA",
+        "dist": 17.2407044023,
+        "bujur": 106.7044,
+        "lintang": -6.1449,
+        "lng": 106.7045195,
+        "lat": -6.1448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.706202,
+          -6.132843
+        ]
+      },
+      "properties": {
+        "cartodb_id": 227,
+        "field_1": 226,
+        "pl_name": "Sekolah Menengah Atas Katolik Lia Stephanie",
+        "sekolah": "SMA KATOLIK LIA STEPHANIE",
+        "dist": 1139.51436081,
+        "bujur": 106.70953,
+        "lintang": -6.142594,
+        "lng": 106.7062023,
+        "lat": -6.1328429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.792291,
+          -6.167035
+        ]
+      },
+      "properties": {
+        "cartodb_id": 228,
+        "field_1": 227,
+        "pl_name": "Majlis Pendidikan Muhammadiyah",
+        "sekolah": "SMAS MUHAMMADIYAH 24",
+        "dist": 437.726131159,
+        "bujur": 106.7936,
+        "lintang": -6.1633,
+        "lng": 106.7922907,
+        "lat": -6.167035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.722038,
+          -6.122957
+        ]
+      },
+      "properties": {
+        "cartodb_id": 229,
+        "field_1": 228,
+        "pl_name": "Sekolah Menengah Atas Yadika 2",
+        "sekolah": "SMAS 2 YADIKA",
+        "dist": 29.429610186,
+        "bujur": 106.7223,
+        "lintang": -6.123,
+        "lng": 106.7220376,
+        "lat": -6.1229571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.786637,
+          -6.163965
+        ]
+      },
+      "properties": {
+        "cartodb_id": 230,
+        "field_1": 229,
+        "pl_name": "Sekolah Menengah Atas St. Kristoforus 1",
+        "sekolah": "SMAS SANTO CRISTOFORUS 1",
+        "dist": 211.699473368,
+        "bujur": 106.7848,
+        "lintang": -6.1645,
+        "lng": 106.7866365,
+        "lat": -6.163965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.726255,
+          -6.209777
+        ]
+      },
+      "properties": {
+        "cartodb_id": 231,
+        "field_1": 230,
+        "pl_name": "Saint John's School",
+        "sekolah": "SMAS SAINT JOHNS SCHOOL",
+        "dist": 1247.55051657,
+        "bujur": 106.7371,
+        "lintang": -6.2067,
+        "lng": 106.7262547,
+        "lat": -6.2097766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823887,
+          -6.152565
+        ]
+      },
+      "properties": {
+        "cartodb_id": 232,
+        "field_1": 231,
+        "pl_name": "SMA Negeri 17 Jakarta",
+        "sekolah": "SMAN 17 JAKARTA",
+        "dist": 14.4736051986,
+        "bujur": 106.824,
+        "lintang": -6.1525,
+        "lng": 106.8238865,
+        "lat": -6.152565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.703388,
+          -6.122384
+        ]
+      },
+      "properties": {
+        "cartodb_id": 233,
+        "field_1": 232,
+        "pl_name": "Sekolah Citra Kasih",
+        "sekolah": "SMAS CITRA KASIH",
+        "dist": 1491.53698319,
+        "bujur": 106.702,
+        "lintang": -6.1358,
+        "lng": 106.7033882,
+        "lat": -6.1223843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.739784,
+          -6.146649
+        ]
+      },
+      "properties": {
+        "cartodb_id": 234,
+        "field_1": 233,
+        "pl_name": "SMAN 96",
+        "sekolah": "SMAN 96 JAKARTA",
+        "dist": 43.8343589391,
+        "bujur": 106.7396,
+        "lintang": -6.147,
+        "lng": 106.739784,
+        "lat": -6.146649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.719905,
+          -6.218007
+        ]
+      },
+      "properties": {
+        "cartodb_id": 235,
+        "field_1": 234,
+        "pl_name": "SMA Negeri 101 Jakarta",
+        "sekolah": "SMAN 101 JAKARTA",
+        "dist": 86.4735152659,
+        "bujur": 106.7205,
+        "lintang": -6.2175,
+        "lng": 106.7199053,
+        "lat": -6.2180072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.751189,
+          -6.200172
+        ]
+      },
+      "properties": {
+        "cartodb_id": 236,
+        "field_1": 235,
+        "pl_name": "Bukit Sion High School",
+        "sekolah": "SMAS BUKIT SION",
+        "dist": 740.321225233,
+        "bujur": 106.7445,
+        "lintang": -6.2001,
+        "lng": 106.7511889,
+        "lat": -6.200172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.779079,
+          -6.169553
+        ]
+      },
+      "properties": {
+        "cartodb_id": 237,
+        "field_1": 236,
+        "pl_name": "Sekolah Menengah Atas Kristen Ipeka Tomang II",
+        "sekolah": "SMAS KRISTEN IPEKA TOMANG",
+        "dist": 10.5079675917,
+        "bujur": 106.779,
+        "lintang": -6.1695,
+        "lng": 106.7790788,
+        "lat": -6.169553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831824,
+          -6.274009
+        ]
+      },
+      "properties": {
+        "cartodb_id": 238,
+        "field_1": 237,
+        "pl_name": "SMA Fatahillah",
+        "sekolah": "SMAS FATAHILLAH",
+        "dist": 13368.3558102,
+        "bujur": 106.7962,
+        "lintang": -6.1585,
+        "lng": 106.8318236,
+        "lat": -6.2740088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.756263,
+          -6.174507
+        ]
+      },
+      "properties": {
+        "cartodb_id": 239,
+        "field_1": 238,
+        "pl_name": "SMAN 57 Jakarta",
+        "sekolah": "SMAN 57 JAKARTA",
+        "dist": 27.9463253671,
+        "bujur": 106.7561,
+        "lintang": -6.1747,
+        "lng": 106.756263,
+        "lat": -6.174507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763906,
+          -6.166329
+        ]
+      },
+      "properties": {
+        "cartodb_id": 240,
+        "field_1": 239,
+        "pl_name": "SMA Providentia",
+        "sekolah": "SMAS PROVIDENTIA",
+        "dist": 36.7557670615,
+        "bujur": 106.7636,
+        "lintang": -6.1662,
+        "lng": 106.7639061,
+        "lat": -6.1663289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777512,
+          -6.144719
+        ]
+      },
+      "properties": {
+        "cartodb_id": 241,
+        "field_1": 240,
+        "pl_name": "Sekolah Menengah Atas Kristen Almasih",
+        "sekolah": "SMAS KRISTEN ALMASIH",
+        "dist": 2111.93509511,
+        "bujur": 106.7783,
+        "lintang": -6.1638,
+        "lng": 106.777512,
+        "lat": -6.1447188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804945,
+          -6.160333
+        ]
+      },
+      "properties": {
+        "cartodb_id": 242,
+        "field_1": 241,
+        "pl_name": "Sekolah Damai",
+        "sekolah": "SMAS DAMAI",
+        "dist": 124.409259704,
+        "bujur": 106.8045,
+        "lintang": -6.1593,
+        "lng": 106.8049454,
+        "lat": -6.1603329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.760394,
+          -6.186655
+        ]
+      },
+      "properties": {
+        "cartodb_id": 243,
+        "field_1": 242,
+        "pl_name": "Taman Kanak-Kanak (TK) Al Kamal",
+        "sekolah": "SMAS AL KAMAL",
+        "dist": 519.170866281,
+        "bujur": 106.7559,
+        "lintang": -6.188,
+        "lng": 106.7603943,
+        "lat": -6.186655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.775618,
+          -6.155792
+        ]
+      },
+      "properties": {
+        "cartodb_id": 244,
+        "field_1": 243,
+        "pl_name": "Sekolah Menengah Atas Galatia 2",
+        "sekolah": "SMAS 2 GALATIA",
+        "dist": 43.9639411377,
+        "bujur": 106.776,
+        "lintang": -6.1559,
+        "lng": 106.7756177,
+        "lat": -6.1557921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814176,
+          -6.16099
+        ]
+      },
+      "properties": {
+        "cartodb_id": 245,
+        "field_1": 244,
+        "pl_name": "SMA Kristen Ketapang",
+        "sekolah": "SMAS 2 KRISTEN KETAPANG",
+        "dist": 6989.49133958,
+        "bujur": 106.7558,
+        "lintang": -6.1851,
+        "lng": 106.8141762,
+        "lat": -6.1609903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.711639,
+          -6.165349
+        ]
+      },
+      "properties": {
+        "cartodb_id": 246,
+        "field_1": 245,
+        "pl_name": "Sekolah Kristen Tiara Kasih",
+        "sekolah": "SMAS KRISTEN TIARA KASIH",
+        "dist": 1462.16812673,
+        "bujur": 106.7248,
+        "lintang": -6.1642,
+        "lng": 106.7116392,
+        "lat": -6.1653489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.719896,
+          -6.119826
+        ]
+      },
+      "properties": {
+        "cartodb_id": 247,
+        "field_1": 246,
+        "pl_name": "SMA Negeri 56 Jakarta",
+        "sekolah": "SMAN 56 JAKARTA",
+        "dist": 14.1381150481,
+        "bujur": 106.72,
+        "lintang": -6.1199,
+        "lng": 106.7198962,
+        "lat": -6.1198255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.779332,
+          -6.15756
+        ]
+      },
+      "properties": {
+        "cartodb_id": 248,
+        "field_1": 247,
+        "pl_name": "Taman Kanak - Kanak Sekolah Kristen Immanuel",
+        "sekolah": "SMAS KRISTEN IMANUEL",
+        "dist": 327.675541649,
+        "bujur": 106.7797,
+        "lintang": -6.1605,
+        "lng": 106.7793322,
+        "lat": -6.1575599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78884,
+          -6.175209
+        ]
+      },
+      "properties": {
+        "cartodb_id": 249,
+        "field_1": 248,
+        "pl_name": "SMA Petra",
+        "sekolah": "SMAS PETRA",
+        "dist": 6511.60294703,
+        "bujur": 106.7503,
+        "lintang": -6.2197,
+        "lng": 106.7888396,
+        "lat": -6.1752086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715334,
+          -6.173959
+        ]
+      },
+      "properties": {
+        "cartodb_id": 250,
+        "field_1": 249,
+        "pl_name": "Sekolah Menengah Atas Santo Leo II",
+        "sekolah": "SMAS 2 SANTO LEO",
+        "dist": 18.9987108297,
+        "bujur": 106.7154,
+        "lintang": -6.1738,
+        "lng": 106.7153345,
+        "lat": -6.1739588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787835,
+          -6.172294
+        ]
+      },
+      "properties": {
+        "cartodb_id": 251,
+        "field_1": 250,
+        "pl_name": "SMAK 1 BPK PENABUR",
+        "sekolah": "SMAS 1 KRISTEN BPK PENABUR",
+        "dist": 756.517442917,
+        "bujur": 106.7813,
+        "lintang": -6.1743,
+        "lng": 106.7878349,
+        "lat": -6.1722943
+      }
+    }
+  ]
+}
